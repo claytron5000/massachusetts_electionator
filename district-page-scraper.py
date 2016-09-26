@@ -19,8 +19,9 @@ print(counties)
 towns = []
 for each in counties:
   district = each['district']
+  district = "".join(district)
   for town in each['towns']:
-    towns.append({'town': town, 'district': district})
+    towns.append({'town': town.strip(), 'district': district.strip()})
 print(towns)
 
 file = open('scraped_towns.json', 'w')
