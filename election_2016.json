@@ -1,0 +1,2952 @@
+[
+    {
+        "candidate": "CLINTON and KAINE, Democratic",
+        "position": "ELECTORS OF PRESIDENT AND VICE PRESIDENT",
+        "zone": "CLINTON and KAINE, Democratic"
+    },
+    {
+        "candidate": "JOHNSON and WELD, Libertarian",
+        "position": "ELECTORS OF PRESIDENT AND VICE PRESIDENT",
+        "zone": "CLINTON and KAINE, Democratic"
+    },
+    {
+        "candidate": "STEIN and BARAKA, Green-Rainbow",
+        "position": "ELECTORS OF PRESIDENT AND VICE PRESIDENT",
+        "zone": "CLINTON and KAINE, Democratic"
+    },
+    {
+        "candidate": "TRUMP and PENCE, Republican",
+        "position": "ELECTORS OF PRESIDENT AND VICE PRESIDENT",
+        "zone": "CLINTON and KAINE, Democratic"
+    },
+    {
+        "candidate": "RICHARD E. NEAL, 36 Atwater Ter., Springfield, Democratic",
+        "position": "REPRESENTATIVE IN CONGRESS",
+        "zone": "FIRST DISTRICT"
+    },
+    {
+        "candidate": "FREDERICK O. MAYOCK, 83 Yorktown Dr., Springfield, Independent",
+        "position": "REPRESENTATIVE IN CONGRESS",
+        "zone": "FIRST DISTRICT"
+    },
+    {
+        "candidate": "THOMAS T. SIMMONS, 72 Main St., Shelburne, Libertarian",
+        "position": "REPRESENTATIVE IN CONGRESS",
+        "zone": "FIRST DISTRICT"
+    },
+    {
+        "candidate": "JAMES P. McGOVERN, 393 Burncoat St., Worcester, Democratic",
+        "position": "REPRESENTATIVE IN CONGRESS",
+        "zone": "SECOND DISTRICT"
+    },
+    {
+        "candidate": "NICOLA S. TSONGAS, 240 Clark Rd., Lowell, Democratic",
+        "position": "REPRESENTATIVE IN CONGRESS",
+        "zone": "THIRD DISTRICT"
+    },
+    {
+        "candidate": "ANN WOFFORD, 18 Lexington Ave., Haverhill, Republican",
+        "position": "REPRESENTATIVE IN CONGRESS",
+        "zone": "THIRD DISTRICT"
+    },
+    {
+        "candidate": "JOSEPH P. KENNEDY, III, 12 Gibbs St., Brookline, Democratic",
+        "position": "REPRESENTATIVE IN CONGRESS",
+        "zone": "FOURTH DISTRICT"
+    },
+    {
+        "candidate": "DAVID A. ROSA, 323 Lincoln Ave., Dighton, Republican",
+        "position": "REPRESENTATIVE IN CONGRESS",
+        "zone": "FOURTH DISTRICT"
+    },
+    {
+        "candidate": "KATHERINE M. CLARK, 64 Prospect St., Melrose, Democratic",
+        "position": "REPRESENTATIVE IN CONGRESS",
+        "zone": "FIFTH DISTRICT"
+    },
+    {
+        "candidate": "SETH MOULTON, 10 Forrester St., Salem, Democratic",
+        "position": "REPRESENTATIVE IN CONGRESS",
+        "zone": "SIXTH DISTRICT"
+    },
+    {
+        "candidate": "MICHAEL E. CAPUANO, 172 Central St., Somerville, Democratic",
+        "position": "REPRESENTATIVE IN CONGRESS",
+        "zone": "SEVENTH DISTRICT"
+    },
+    {
+        "candidate": "STEPHEN F. LYNCH, 55 G St., Boston, Democratic",
+        "position": "REPRESENTATIVE IN CONGRESS",
+        "zone": "EIGHTH DISTRICT"
+    },
+    {
+        "candidate": "WILLIAM BURKE, 64 Bromfield St., Quincy, Republican",
+        "position": "REPRESENTATIVE IN CONGRESS",
+        "zone": "EIGHTH DISTRICT"
+    },
+    {
+        "candidate": "WILLIAM RICHARD KEATING, 10 Briarwood Ln., Bourne, Democratic",
+        "position": "REPRESENTATIVE IN CONGRESS",
+        "zone": "NINTH DISTRICT"
+    },
+    {
+        "candidate": "MARK C. ALLIEGRO, 41 Metoxit Rd., Falmouth, Republican",
+        "position": "REPRESENTATIVE IN CONGRESS",
+        "zone": "NINTH DISTRICT"
+    },
+    {
+        "candidate": "CHRISTOPHER D. CATALDO, 493 Main St., Norwell, Unenrolled",
+        "position": "REPRESENTATIVE IN CONGRESS",
+        "zone": "NINTH DISTRICT"
+    },
+    {
+        "candidate": "PAUL J. HARRINGTON, 14 Baileys Path, Chatham, Independent",
+        "position": "REPRESENTATIVE IN CONGRESS",
+        "zone": "NINTH DISTRICT"
+    },
+    {
+        "candidate": "ANNA GRACE RADUC, 129 Fuller St., Halifax, Unenrolled",
+        "position": "REPRESENTATIVE IN CONGRESS",
+        "zone": "NINTH DISTRICT"
+    },
+    {
+        "candidate": "JOSEPH C. FERREIRA, 7 Thomas Dr., Somerset, Democratic",
+        "position": "COUNCILLOR",
+        "zone": "FIRST DISTRICT"
+    },
+    {
+        "candidate": "ROBERT L. JUBINVILLE, 487 Adams St., Milton, Democratic",
+        "position": "COUNCILLOR",
+        "zone": "SECOND DISTRICT"
+    },
+    {
+        "candidate": "BRAD WILLIAMS, 29 Furbush Rd., Boston, Republican",
+        "position": "COUNCILLOR",
+        "zone": "SECOND DISTRICT"
+    },
+    {
+        "candidate": "MARILYN M. PETITTO DEVANEY, 98 Westminster Ave., Watertown, Democratic",
+        "position": "COUNCILLOR",
+        "zone": "THIRD DISTRICT"
+    },
+    {
+        "candidate": "CHRISTOPHER A. IANNELLA, JR., 263 Pond St., Boston, Democratic",
+        "position": "COUNCILLOR",
+        "zone": "FOURTH DISTRICT"
+    },
+    {
+        "candidate": "EILEEN R. DUFF, 8 Barberry Heights Rd., Gloucester, Democratic",
+        "position": "COUNCILLOR",
+        "zone": "FIFTH DISTRICT"
+    },
+    {
+        "candidate": "RICHARD A. BAKER, 288 Middle St., West Newbury, Republican",
+        "position": "COUNCILLOR",
+        "zone": "FIFTH DISTRICT"
+    },
+    {
+        "candidate": "TERRENCE W. KENNEDY, 3 Stafford Rd., Lynnfield, Democratic",
+        "position": "COUNCILLOR",
+        "zone": "SIXTH DISTRICT"
+    },
+    {
+        "candidate": "JENNIE L. CAISSIE, 53 Fort Hill Rd., Oxford, Republican",
+        "position": "COUNCILLOR",
+        "zone": "SEVENTH DISTRICT"
+    },
+    {
+        "candidate": "MATTHEW CJ VANCE, 33 A St., Gardner, Democratic",
+        "position": "COUNCILLOR",
+        "zone": "SEVENTH DISTRICT"
+    },
+    {
+        "candidate": "MARY E. HURLEY, 15 Fields Dr., East Longmeadow, Democratic",
+        "position": "COUNCILLOR",
+        "zone": "EIGHTH DISTRICT"
+    },
+    {
+        "candidate": "CHRISTINE M. CANNING, 12 Noppet Rd., Lanesborough, Republican",
+        "position": "SENATOR IN GENERAL COURT",
+        "zone": "BERKSHIRE, HAMPSHIRE, FRANKLIN & HAMPDEN DISTRICT"
+    },
+    {
+        "candidate": "ADAM G. HINDS, 67 Federal St., Pittsfield, Democratic",
+        "position": "SENATOR IN GENERAL COURT",
+        "zone": "BERKSHIRE, HAMPSHIRE, FRANKLIN & HAMPDEN DISTRICT"
+    },
+    {
+        "candidate": "JAMES E. TIMILTY, 5 Burrill St., Walpole, Democratic",
+        "position": "SENATOR IN GENERAL COURT",
+        "zone": "BRISTOL & NORFOLK DISTRICT"
+    },
+    {
+        "candidate": "MICHAEL J. RODRIGUES, 428 Sanford Rd., Westport, Democratic",
+        "position": "SENATOR IN GENERAL COURT",
+        "zone": "FIRST BRISTOL & PLYMOUTH DISTRICT"
+    },
+    {
+        "candidate": "MARK C. MONTIGNY, 94 Hawthorn St., New Bedford, Democratic",
+        "position": "SENATOR IN GENERAL COURT",
+        "zone": "SECOND BRISTOL & PLYMOUTH DISTRICT"
+    },
+    {
+        "candidate": "JULIAN ANDRE CYR, 176 Rt. 6, Truro, Democratic",
+        "position": "SENATOR IN GENERAL COURT",
+        "zone": "CAPE & ISLANDS DISTRICT"
+    },
+    {
+        "candidate": "ANTHONY E. SCHIAVI, 1550 Orleans Rd., Harwich, Republican",
+        "position": "SENATOR IN GENERAL COURT",
+        "zone": "CAPE & ISLANDS DISTRICT"
+    },
+    {
+        "candidate": "KATHLEEN A. O\u2019CONNOR IVES, 15 Essex St., Newburyport, Democratic",
+        "position": "SENATOR IN GENERAL COURT",
+        "zone": "FIRST ESSEX DISTRICT"
+    },
+    {
+        "candidate": "JOAN B. LOVELY, 14 Story St., Salem, Democratic",
+        "position": "SENATOR IN GENERAL COURT",
+        "zone": "SECOND ESSEX DISTRICT"
+    },
+    {
+        "candidate": "THOMAS M. McGEE, 9 Pine Rd., Lynn, Democratic",
+        "position": "SENATOR IN GENERAL COURT",
+        "zone": "THIRD ESSEX DISTRICT"
+    },
+    {
+        "candidate": "BRUCE E. TARR, 80 Essex Ave., Gloucester, Republican",
+        "position": "SENATOR IN GENERAL COURT",
+        "zone": "FIRST ESSEX & MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "BARBARA A. L\u2019ITALIEN, 5 Harper Cir., Andover, Democratic",
+        "position": "SENATOR IN GENERAL COURT",
+        "zone": "SECOND ESSEX & MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "SUSAN M. LAPLANTE, 29 Durso Ave., Lawrence, Republican",
+        "position": "SENATOR IN GENERAL COURT",
+        "zone": "SECOND ESSEX & MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "JAMES T. WELCH, 270 Christopher Ter., West Springfield, Democratic",
+        "position": "SENATOR IN GENERAL COURT",
+        "zone": "HAMPDEN DISTRICT"
+    },
+    {
+        "candidate": "ERIC P. LESSER, 28 Edson St., Longmeadow, Democratic",
+        "position": "SENATOR IN GENERAL COURT",
+        "zone": "FIRST HAMPDEN & HAMPSHIRE DISTRICT"
+    },
+    {
+        "candidate": "JAMES CHIP HARRINGTON, 122 Overlook Dr., Ludlow, Republican",
+        "position": "SENATOR IN GENERAL COURT",
+        "zone": "FIRST HAMPDEN & HAMPSHIRE DISTRICT"
+    },
+    {
+        "candidate": "DONALD F. HUMASON, JR., 90 Stony Ln., Westfield, Republican",
+        "position": "SENATOR IN GENERAL COURT",
+        "zone": "SECOND HAMPDEN & HAMPSHIRE DISTRICT"
+    },
+    {
+        "candidate": "JEROME PARKER-O\u2019GRADY, 53 Glendale Rd., Southampton, Democratic",
+        "position": "SENATOR IN GENERAL COURT",
+        "zone": "SECOND HAMPDEN & HAMPSHIRE DISTRICT"
+    },
+    {
+        "candidate": "STANLEY C. ROSENBERG, 38 Webster Ct., Amherst, Democratic",
+        "position": "SENATOR IN GENERAL COURT",
+        "zone": "HAMPSHIRE, FRANKLIN & WORCESTER DISTRICT"
+    },
+    {
+        "candidate": "DONALD PELTIER, 356 Granby Rd., South Hadley, Republican",
+        "position": "SENATOR IN GENERAL COURT",
+        "zone": "HAMPSHIRE, FRANKLIN & WORCESTER DISTRICT"
+    },
+    {
+        "candidate": "EILEEN M. DONOGHUE, 257 Andover St., Lowell, Democratic",
+        "position": "SENATOR IN GENERAL COURT",
+        "zone": "FIRST MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "PATRICIA D. JEHLEN, 67 Dane St., Somerville, Democratic",
+        "position": "SENATOR IN GENERAL COURT",
+        "zone": "SECOND MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "MICHAEL J. BARRETT, 7 Augustus Rd., Lexington, Democratic",
+        "position": "SENATOR IN GENERAL COURT",
+        "zone": "THIRD MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "KENNETH J. DONNELLY, 12 Grandview Rd., Arlington, Democratic",
+        "position": "SENATOR IN GENERAL COURT",
+        "zone": "FOURTH MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "JASON M. LEWIS, 61 Church St., Winchester, Democratic",
+        "position": "SENATOR IN GENERAL COURT",
+        "zone": "FIFTH MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "VINCENT LAWRENCE DIXON, 60 Lake St., Winchester, Republican",
+        "position": "SENATOR IN GENERAL COURT",
+        "zone": "FIFTH MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "CYNTHIA STONE CREEM, 110 Huntington Rd., Newton, Democratic",
+        "position": "SENATOR IN GENERAL COURT",
+        "zone": "FIRST MIDDLESEX & NORFOLK DISTRICT"
+    },
+    {
+        "candidate": "KAREN E. SPILKA, 18 Rome Way, Ashland, Democratic",
+        "position": "SENATOR IN GENERAL COURT",
+        "zone": "SECOND MIDDLESEX & NORFOLK DISTRICT"
+    },
+    {
+        "candidate": "SAL N. DiDOMENICO, 125 Clarence St., Everett, Democratic",
+        "position": "SENATOR IN GENERAL COURT",
+        "zone": "MIDDLESEX & SUFFOLK DISTRICT"
+    },
+    {
+        "candidate": "JAMES B. ELDRIDGE, 267 Arlington St., Acton, Democratic",
+        "position": "SENATOR IN GENERAL COURT",
+        "zone": "MIDDLESEX & WORCESTER DISTRICT"
+    },
+    {
+        "candidate": "TED BUSIEK, 2 Harwood Ave., Littleton, Republican",
+        "position": "SENATOR IN GENERAL COURT",
+        "zone": "MIDDLESEX & WORCESTER DISTRICT"
+    },
+    {
+        "candidate": "TERRA FRIEDRICHS, 2 Wright Ter., Acton, Cooperative Green Economy",
+        "position": "SENATOR IN GENERAL COURT",
+        "zone": "MIDDLESEX & WORCESTER DISTRICT"
+    },
+    {
+        "candidate": "RICHARD J. ROSS, 135 South St., Wrentham, Republican",
+        "position": "SENATOR IN GENERAL COURT",
+        "zone": "NORFOLK, BRISTOL & MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "KRISTOPHER K. ALEKSOV, 224 West Plain St., Wayland, Democratic",
+        "position": "SENATOR IN GENERAL COURT",
+        "zone": "NORFOLK, BRISTOL & MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "WALTER F. TIMILTY, 11 Beech St., Milton, Democratic",
+        "position": "SENATOR IN GENERAL COURT",
+        "zone": "NORFOLK, BRISTOL & PLYMOUTH DISTRICT"
+    },
+    {
+        "candidate": "JONATHAN D. LOTT, 119 Britton Ave., Stoughton, A Better Choice",
+        "position": "SENATOR IN GENERAL COURT",
+        "zone": "NORFOLK, BRISTOL & PLYMOUTH DISTRICT"
+    },
+    {
+        "candidate": "JOHN F. KEENAN, 37 Hobomack Rd., Quincy, Democratic",
+        "position": "SENATOR IN GENERAL COURT",
+        "zone": "NORFOLK & PLYMOUTH DISTRICT"
+    },
+    {
+        "candidate": "ALEXANDER N. MENDEZ, 99 Shore Ave., Quincy, Independent",
+        "position": "SENATOR IN GENERAL COURT",
+        "zone": "NORFOLK & PLYMOUTH DISTRICT"
+    },
+    {
+        "candidate": "MICHAEL F. RUSH, 65 Cass St., Boston, Democratic",
+        "position": "SENATOR IN GENERAL COURT",
+        "zone": "NORFOLK & SUFFOLK DISTRICT"
+    },
+    {
+        "candidate": "VINNY M. deMACEDO, 525 Ship Pond Rd., Plymouth, Republican",
+        "position": "SENATOR IN GENERAL COURT",
+        "zone": "PLYMOUTH & BARNSTABLE DISTRICT"
+    },
+    {
+        "candidate": "MARC R. PACHECO, 7 Dartmouth St., Taunton, Democratic",
+        "position": "SENATOR IN GENERAL COURT",
+        "zone": "FIRST PLYMOUTH & BRISTOL DISTRICT"
+    },
+    {
+        "candidate": "SANDRA M. WRIGHT, 150 East St., Bridgewater, Republican",
+        "position": "SENATOR IN GENERAL COURT",
+        "zone": "FIRST PLYMOUTH & BRISTOL DISTRICT"
+    },
+    {
+        "candidate": "MICHAEL D. BRADY, 28 Ellis St., Brockton, Democratic",
+        "position": "SENATOR IN GENERAL COURT",
+        "zone": "SECOND PLYMOUTH & BRISTOL DISTRICT"
+    },
+    {
+        "candidate": "PATRICK M. O\u2019CONNOR, 340 Pleasant St., Weymouth, Republican",
+        "position": "SENATOR IN GENERAL COURT",
+        "zone": "PLYMOUTH & NORFOLK DISTRICT"
+    },
+    {
+        "candidate": "PAUL J. GANNON, 7 Sentinel Rd., Hingham, Democratic",
+        "position": "SENATOR IN GENERAL COURT",
+        "zone": "PLYMOUTH & NORFOLK DISTRICT"
+    },
+    {
+        "candidate": "LINDA DORCENA FORRY, 110 Richmond St., Boston, Democratic",
+        "position": "SENATOR IN GENERAL COURT",
+        "zone": "FIRST SUFFOLK DISTRICT"
+    },
+    {
+        "candidate": "SONIA ROSA CHANG-D\u00cdAZ, 3 Bremen Ter., Boston, Democratic",
+        "position": "SENATOR IN GENERAL COURT",
+        "zone": "SECOND SUFFOLK DISTRICT"
+    },
+    {
+        "candidate": "JOSEPH A. BONCORE, 39 Sagamore Ave., Winthrop, Democratic",
+        "position": "SENATOR IN GENERAL COURT",
+        "zone": "FIRST SUFFOLK & MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "WILLIAM N. BROWNSBERGER, 120 Gilbert Rd., Belmont, Democratic",
+        "position": "SENATOR IN GENERAL COURT",
+        "zone": "SECOND SUFFOLK & MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "HARRIETTE L. CHANDLER, 97 Aylesbury Rd., Worcester, Democratic",
+        "position": "SENATOR IN GENERAL COURT",
+        "zone": "FIRST WORCESTER DISTRICT"
+    },
+    {
+        "candidate": "MICHAEL O. MOORE, 27 Grafton St., Millbury, Democratic",
+        "position": "SENATOR IN GENERAL COURT",
+        "zone": "SECOND WORCESTER DISTRICT"
+    },
+    {
+        "candidate": "MESFIN H. BESHIR, 86 Vale St., Worcester, Republican",
+        "position": "SENATOR IN GENERAL COURT",
+        "zone": "SECOND WORCESTER DISTRICT"
+    },
+    {
+        "candidate": "ANNE M. GOBI, 117 Mechanic St., Spencer, Democratic",
+        "position": "SENATOR IN GENERAL COURT",
+        "zone": "WORCESTER, HAMPDEN, HAMPSHIRE & MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "JAMES P. EHRHARD, 7 Meadow View Ln., Sturbridge, Republican",
+        "position": "SENATOR IN GENERAL COURT",
+        "zone": "WORCESTER, HAMPDEN, HAMPSHIRE & MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "JENNIFER L. FLANAGAN, 101 Peterson St., Leominster, Democratic",
+        "position": "SENATOR IN GENERAL COURT",
+        "zone": "WORCESTER & MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "RYAN C. FATTMAN, 108 Killdeer Island Rd., Webster, Republican",
+        "position": "SENATOR IN GENERAL COURT",
+        "zone": "WORCESTER & NORFOLK DISTRICT"
+    },
+    {
+        "candidate": "TIMOTHY R. WHELAN, 238 Leland Rd., Brewster, Republican",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FIRST BARNSTABLE DISTRICT"
+    },
+    {
+        "candidate": "WILLIAM L. CROCKER, JR., 50 Birchill Rd., Barnstable, Republican",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SECOND BARNSTABLE DISTRICT"
+    },
+    {
+        "candidate": "AARON S. KANZER, 48 Crystal Ridge Rd., Barnstable, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SECOND BARNSTABLE DISTRICT"
+    },
+    {
+        "candidate": "DAVID T. VIEIRA, 44 Silent Way, Falmouth, Republican",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "THIRD BARNSTABLE DISTRICT"
+    },
+    {
+        "candidate": "MATTHEW C. PATRICK, 24 Collins Rd., Falmouth, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "THIRD BARNSTABLE DISTRICT"
+    },
+    {
+        "candidate": "SARAH K. PEAKE, 7 Center St., Provincetown, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FOURTH BARNSTABLE DISTRICT"
+    },
+    {
+        "candidate": "RANDY HUNT, 297 Quaker Meetinghouse Rd., Sandwich, Republican",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FIFTH BARNSTABLE DISTRICT"
+    },
+    {
+        "candidate": "DYLAN A. FERNANDES, 410 Woods Hole Rd., Falmouth, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "BARNSTABLE, DUKES & NANTUCKET DISTRICT"
+    },
+    {
+        "candidate": "JACOB NORMAN FERRY, 67 Blackwater Hollow Rd., West Tisbury, Independent",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "BARNSTABLE, DUKES & NANTUCKET DISTRICT"
+    },
+    {
+        "candidate": "TOBIAS B. GLIDDEN, 19 Nobadeer Farm Rd., Nantucket, Independent",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "BARNSTABLE, DUKES & NANTUCKET DISTRICT"
+    },
+    {
+        "candidate": "GAILANNE M. CARIDDI, 100 Galvin Rd., North Adams, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FIRST BERKSHIRE DISTRICT"
+    },
+    {
+        "candidate": "PAUL W. MARK, 95 Middlefield Rd., Peru, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SECOND BERKSHIRE DISTRICT"
+    },
+    {
+        "candidate": "TRICIA FARLEY-BOUVIER, 113 Oliver Ave., Pittsfield, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "THIRD BERKSHIRE DISTRICT"
+    },
+    {
+        "candidate": "CHRISTOPHER J. CONNELL, 105 Dawes Ave., Pittsfield, Independent",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "THIRD BERKSHIRE DISTRICT"
+    },
+    {
+        "candidate": "WILLIAM \u201cSMITTY\u201d PIGNATELLI, 300 Fairview St., Lee, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FOURTH BERKSHIRE DISTRICT"
+    },
+    {
+        "candidate": "FRED \u201cJAY\u201d BARROWS, 370 Pratt St., Mansfield, Republican",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FIRST BRISTOL DISTRICT"
+    },
+    {
+        "candidate": "MICHAEL E. TOOLE, 12 Bryson Dr., Norton, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FIRST BRISTOL DISTRICT"
+    },
+    {
+        "candidate": "PAUL R. HEROUX, 444 Newport Ave., Attleboro, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SECOND BRISTOL DISTRICT"
+    },
+    {
+        "candidate": "SHAUNNA L. O\u2019CONNELL, 56 Worcester St., Taunton, Republican",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "THIRD BRISTOL DISTRICT"
+    },
+    {
+        "candidate": "ESTELE C. BORGES, 31 Lydia Ln., Taunton, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "THIRD BRISTOL DISTRICT"
+    },
+    {
+        "candidate": "STEVEN S. HOWITT, 425 Pine St., Seekonk, Republican",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FOURTH BRISTOL DISTRICT"
+    },
+    {
+        "candidate": "PAUL W. JACQUES, 10 Waterman St., Rehoboth, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FOURTH BRISTOL DISTRICT"
+    },
+    {
+        "candidate": "PATRICIA A. HADDAD, 2662 Riverside Ave., Somerset, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FIFTH BRISTOL DISTRICT"
+    },
+    {
+        "candidate": "CAROLE A. FIOLA, 307 Archer St., Fall River, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SIXTH BRISTOL DISTRICT"
+    },
+    {
+        "candidate": "ALAN SILVIA, 684 Woodman St., Fall River, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SEVENTH BRISTOL DISTRICT"
+    },
+    {
+        "candidate": "PAUL A. SCHMID, lll, 236 Fisherville Ln., Westport, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "EIGHTH BRISTOL DISTRICT"
+    },
+    {
+        "candidate": "CHRISTOPHER MARKEY, 48 William St., Dartmouth, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "NINTH BRISTOL DISTRICT"
+    },
+    {
+        "candidate": "WILLIAM M. STRAUS, 8 Nashawena Rd., Mattapoisett, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "TENTH BRISTOL DISTRICT"
+    },
+    {
+        "candidate": "ROBERT M. KOCZERA, 119 Jarry St., New Bedford, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "ELEVENTH BRISTOL DISTRICT"
+    },
+    {
+        "candidate": "KEIKO M. ORRALL, 120 Crooked Ln., Lakeville, Republican",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "TWELFTH BRISTOL DISTRICT"
+    },
+    {
+        "candidate": "ANTONIO F.D. CABRAL, 25 Moreland Ter., New Bedford, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "THIRTEENTH BRISTOL DISTRICT"
+    },
+    {
+        "candidate": "ELIZABETH A. POIRIER, 53 Ledgebrook Dr., North Attleborough, Republican",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FOURTEENTH BRISTOL DISTRICT"
+    },
+    {
+        "candidate": "SCOTT P. DUBUC, 61 White Oak Way, North Attleborough, Conservative Independent",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FOURTEENTH BRISTOL DISTRICT"
+    },
+    {
+        "candidate": "JAMES M. KELCOURSE, 50 Monroe St., Amesbury, Republican",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FIRST ESSEX DISTRICT"
+    },
+    {
+        "candidate": "BRIANNA SULLIVAN, 80 Market St., Amesbury, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FIRST ESSEX DISTRICT"
+    },
+    {
+        "candidate": "LEONARD MIRRA, 11 Mirra Way, West Newbury, Republican",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SECOND ESSEX DISTRICT"
+    },
+    {
+        "candidate": "BRIAN S. DEMPSEY, 15 Oxford St., Haverhill, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "THIRD ESSEX DISTRICT"
+    },
+    {
+        "candidate": "BRADFORD R. HILL, 16 Birch Ln., Ipswich, Republican",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FOURTH ESSEX DISTRICT"
+    },
+    {
+        "candidate": "ANN-MARGARET FERRANTE, 11 1/2 Proctor St., Gloucester, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FIFTH ESSEX DISTRICT"
+    },
+    {
+        "candidate": "JERALD A. PARISELLA, 14 Red Rock Ln., Beverly, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SIXTH ESSEX DISTRICT"
+    },
+    {
+        "candidate": "DANIEL FISHMAN, 36 Colgate Rd., Beverly, United Independent Party",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SIXTH ESSEX DISTRICT"
+    },
+    {
+        "candidate": "PAUL F. TUCKER, 14 Bay View Cir., Salem, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SEVENTH ESSEX DISTRICT"
+    },
+    {
+        "candidate": "EIGHTH ESSEX DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "EIGHTH ESSEX DISTRICT"
+    },
+    {
+        "candidate": "LORI A. EHRLICH, 46 Gerald Rd., Marblehead, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "EIGHTH ESSEX DISTRICT"
+    },
+    {
+        "candidate": "NINTH ESSEX DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "NINTH ESSEX DISTRICT"
+    },
+    {
+        "candidate": "DONALD H. WONG, 53 Juniper Dr., Saugus, Republican",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "NINTH ESSEX DISTRICT"
+    },
+    {
+        "candidate": "JENNIFER MIGLIORE, 58 Jasper St., Saugus, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "NINTH ESSEX DISTRICT"
+    },
+    {
+        "candidate": "TENTH ESSEX DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "TENTH ESSEX DISTRICT"
+    },
+    {
+        "candidate": "DANIEL CAHILL, 20 Belleaire Ave., Lynn, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "TENTH ESSEX DISTRICT"
+    },
+    {
+        "candidate": "ELEVENTH ESSEX DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "ELEVENTH ESSEX DISTRICT"
+    },
+    {
+        "candidate": "BRENDAN P. CRIGHTON, 11 Greenleaf Cir., Lynn, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "ELEVENTH ESSEX DISTRICT"
+    },
+    {
+        "candidate": "TWELFTH ESSEX DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "TWELFTH ESSEX DISTRICT"
+    },
+    {
+        "candidate": "THOMAS P. WALSH, 170 Lynnfield St., Peabody, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "TWELFTH ESSEX DISTRICT"
+    },
+    {
+        "candidate": "THIRTEENTH ESSEX DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "THIRTEENTH ESSEX DISTRICT"
+    },
+    {
+        "candidate": "THEODORE C. SPELIOTIS, 4 Ardmore Dr., Danvers, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "THIRTEENTH ESSEX DISTRICT"
+    },
+    {
+        "candidate": "FOURTEENTH ESSEX DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FOURTEENTH ESSEX DISTRICT"
+    },
+    {
+        "candidate": "DIANA DiZOGLIO, 3 John St., Methuen, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FOURTEENTH ESSEX DISTRICT"
+    },
+    {
+        "candidate": "FIFTEENTH ESSEX DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FIFTEENTH ESSEX DISTRICT"
+    },
+    {
+        "candidate": "LINDA DEAN CAMPBELL, 42 Sugar Pine Ln., Methuen, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FIFTEENTH ESSEX DISTRICT"
+    },
+    {
+        "candidate": "NICHOLAS S. TORRESI, 7 Hitching Post Ln., Methuen, Independent",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FIFTEENTH ESSEX DISTRICT"
+    },
+    {
+        "candidate": "SIXTEENTH ESSEX DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SIXTEENTH ESSEX DISTRICT"
+    },
+    {
+        "candidate": "JUANA B. MATIAS, 197 Prospect St., Lawrence, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SIXTEENTH ESSEX DISTRICT"
+    },
+    {
+        "candidate": "SEVENTEENTH ESSEX DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SEVENTEENTH ESSEX DISTRICT"
+    },
+    {
+        "candidate": "FRANK A. MORAN, 38 Dartmouth St., Lawrence, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SEVENTEENTH ESSEX DISTRICT"
+    },
+    {
+        "candidate": "EIGHTEENTH ESSEX DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "EIGHTEENTH ESSEX DISTRICT"
+    },
+    {
+        "candidate": "JAMES J. LYONS, JR., 12 High Vale Ln., Andover, Republican",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "EIGHTEENTH ESSEX DISTRICT"
+    },
+    {
+        "candidate": "OSCAR CAMARGO, 22 Hidden Rd., Andover, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "EIGHTEENTH ESSEX DISTRICT"
+    },
+    {
+        "candidate": "FIRST FRANKLIN DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FIRST FRANKLIN DISTRICT"
+    },
+    {
+        "candidate": "STEPHEN KULIK, 50 Thayer Hill Rd., Worthington, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FIRST FRANKLIN DISTRICT"
+    },
+    {
+        "candidate": "SECOND FRANKLIN DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SECOND FRANKLIN DISTRICT"
+    },
+    {
+        "candidate": "SUSANNAH M. WHIPPS LEE, 1192 Main St., Athol, Republican",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SECOND FRANKLIN DISTRICT"
+    },
+    {
+        "candidate": "FIRST HAMPDEN DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FIRST HAMPDEN DISTRICT"
+    },
+    {
+        "candidate": "TODD M. SMOLA, 212 Bridge St., Warren, Republican",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FIRST HAMPDEN DISTRICT"
+    },
+    {
+        "candidate": "SECOND HAMPDEN DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SECOND HAMPDEN DISTRICT"
+    },
+    {
+        "candidate": "BRIAN M. ASHE, 183 Rugby Rd., Longmeadow, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SECOND HAMPDEN DISTRICT"
+    },
+    {
+        "candidate": "THIRD HAMPDEN DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "THIRD HAMPDEN DISTRICT"
+    },
+    {
+        "candidate": "NICHOLAS A. BOLDYGA, 13 Sterrett Dr., Southwick, Republican",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "THIRD HAMPDEN DISTRICT"
+    },
+    {
+        "candidate": "ROSEMARY SANDLIN, 90 Granger Dr., Agawam, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "THIRD HAMPDEN DISTRICT"
+    },
+    {
+        "candidate": "FOURTH HAMPDEN DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FOURTH HAMPDEN DISTRICT"
+    },
+    {
+        "candidate": "JOHN C. VELIS, 7 Holland Ave., Westfield, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FOURTH HAMPDEN DISTRICT"
+    },
+    {
+        "candidate": "FIFTH HAMPDEN DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FIFTH HAMPDEN DISTRICT"
+    },
+    {
+        "candidate": "AARON VEGA, 17 Linden St., Holyoke, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FIFTH HAMPDEN DISTRICT"
+    },
+    {
+        "candidate": "SIXTH HAMPDEN DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SIXTH HAMPDEN DISTRICT"
+    },
+    {
+        "candidate": "MICHAEL J. FINN, 465 Gooseberry Rd., West Springfield, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SIXTH HAMPDEN DISTRICT"
+    },
+    {
+        "candidate": "SEVENTH HAMPDEN DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SEVENTH HAMPDEN DISTRICT"
+    },
+    {
+        "candidate": "THOMAS M. PETROLATI, 106 Stevens St., Ludlow, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SEVENTH HAMPDEN DISTRICT"
+    },
+    {
+        "candidate": "EIGHTH HAMPDEN DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "EIGHTH HAMPDEN DISTRICT"
+    },
+    {
+        "candidate": "JOSEPH F. WAGNER, 131 Edward St., Chicopee, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "EIGHTH HAMPDEN DISTRICT"
+    },
+    {
+        "candidate": "NINTH HAMPDEN DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "NINTH HAMPDEN DISTRICT"
+    },
+    {
+        "candidate": "JOSE F. TOSADO, 22 Birch Glen Dr., Springfield, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "NINTH HAMPDEN DISTRICT"
+    },
+    {
+        "candidate": "ROBERT J. UNDERWOOD, 83 Cherrelyn St., Springfield, Unenrolled",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "NINTH HAMPDEN DISTRICT"
+    },
+    {
+        "candidate": "TENTH HAMPDEN DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "TENTH HAMPDEN DISTRICT"
+    },
+    {
+        "candidate": "CARLOS GONZALEZ, 44 Dover St., Springfield, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "TENTH HAMPDEN DISTRICT"
+    },
+    {
+        "candidate": "ELEVENTH HAMPDEN DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "ELEVENTH HAMPDEN DISTRICT"
+    },
+    {
+        "candidate": "BUD L. WILLIAMS, 155 Overlook Dr., Springfield, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "ELEVENTH HAMPDEN DISTRICT"
+    },
+    {
+        "candidate": "TWELFTH HAMPDEN DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "TWELFTH HAMPDEN DISTRICT"
+    },
+    {
+        "candidate": "ANGELO J. PUPPOLO, JR., 44 South Shore Dr., Springfield, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "TWELFTH HAMPDEN DISTRICT"
+    },
+    {
+        "candidate": "FIRST HAMPSHIRE DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FIRST HAMPSHIRE DISTRICT"
+    },
+    {
+        "candidate": "PETER V. KOCOT, 30 Drewsen Dr., Northampton, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FIRST HAMPSHIRE DISTRICT"
+    },
+    {
+        "candidate": "SECOND HAMPSHIRE DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SECOND HAMPSHIRE DISTRICT"
+    },
+    {
+        "candidate": "JOHN W. SCIBAK, 12 Hillside Ave., South Hadley, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SECOND HAMPSHIRE DISTRICT"
+    },
+    {
+        "candidate": "THIRD HAMPSHIRE DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "THIRD HAMPSHIRE DISTRICT"
+    },
+    {
+        "candidate": "SOLOMON ISRAEL GOLDSTEIN-ROSE, 16 Poet\u2019s Corner, Amherst, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "THIRD HAMPSHIRE DISTRICT"
+    },
+    {
+        "candidate": "FIRST MIDDLESEX DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FIRST MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "SHEILA C. HARRINGTON, 21 Overlook Dr., Groton, Republican",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FIRST MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "MATTHEW T. MENEGHINI, 152 Hill Rd., Groton, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FIRST MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "SECOND MIDDLESEX DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SECOND MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "JAMES ARCIERO, 29 East Prescott St., Westford, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SECOND MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "THIRD MIDDLESEX DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "THIRD MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "KATE HOGAN, 36 Hastings St., Stow, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "THIRD MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "FOURTH MIDDLESEX DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FOURTH MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "DANIELLE W. GREGOIRE, 173 Greenwood St., Marlborough, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FOURTH MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "PAUL R. FERRO, 53 Edinboro St., Marlborough, Republican",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FOURTH MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "FIFTH MIDDLESEX DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FIFTH MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "DAVID PAUL LINSKY, 25 West Central St., Natick, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FIFTH MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "SIXTH MIDDLESEX DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SIXTH MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "CHRIS WALSH, 113 Pleasant St., Framingham, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SIXTH MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "SEVENTH MIDDLESEX DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SEVENTH MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "YOLANDA GREAVES, 127 Prospect St., Ashland, Republican",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SEVENTH MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "JACK PATRICTK LEWIS, 10 Lilian Rd., Framingham, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SEVENTH MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "CLIFFORD T.C. WILSON, 378 Eliot St., Ashland, UNENROLLED",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SEVENTH MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "EIGHTH MIDDLESEX DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "EIGHTH MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "CAROLYN C. DYKEMA, 429 Marshall St., Holliston, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "EIGHTH MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "NINTH MIDDLESEX DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "NINTH MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "THOMAS M. STANLEY, 19 Neighbors Ln., Waltham, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "NINTH MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "STACEY M. GALLAGHER TULLY, 85 Lincoln St., Waltham, Independent",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "NINTH MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "TENTH MIDDLESEX DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "TENTH MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "JOHN J. LAWN, JR., 20 Pilgrim Rd., Watertown, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "TENTH MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "ELEVENTH MIDDLESEX DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "ELEVENTH MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "KAY S. KHAN, 18 St. Mary\u2019s St., Newton, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "ELEVENTH MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "TWELFTH MIDDLESEX DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "TWELFTH MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "RUTH B. BALSER, 36 Audubon Dr., Newton, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "TWELFTH MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "THIRTEENTH MIDDLESEX DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "THIRTEENTH MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "CARMINE LAWRENCE GENTILE, 33 Surrey Ln., Sudbury, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "THIRTEENTH MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "FOURTEENTH MIDDLESEX DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FOURTEENTH MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "CORY ATKINS, 93 Pilgrim Rd., Concord, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FOURTEENTH MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "HELEN BRADY, 1630 Monument St., Concord, Republican",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FOURTEENTH MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "DANIEL L. FACTOR, 11 Davis Rd., Acton, Green-Rainbow",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FOURTEENTH MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "FIFTEENTH MIDDLESEX DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FIFTEENTH MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "JAY R. KAUFMAN, 1 Childs Rd., Lexington, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FIFTEENTH MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "SIXTEENTH MIDDLESEX DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SIXTEENTH MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "THOMAS A. GOLDEN, JR., 24 Munroe St., Lowell, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SIXTEENTH MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "SEVENTEENTH MIDDLESEX DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SEVENTEENTH MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "DAVID M. NANGLE, 78 Trull Ln., Lowell, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SEVENTEENTH MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "EIGHTEENTH MIDDLESEX DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "EIGHTEENTH MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "RADY MOM, 642 Wilder St., Lowell, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "EIGHTEENTH MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "KAMARA KAY, 273 Walker St., Lowell, Republican",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "EIGHTEENTH MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "NINETEENTH MIDDLESEX DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "NINETEENTH MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "JAMES R. MICELI, 11 Webber St., Wilmington, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "NINETEENTH MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "TWENTIETH MIDDLESEX DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "TWENTIETH MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "BRADLEY H. JONES, JR., 249 Park St., North Reading, Republican",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "TWENTIETH MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "TWENTY-FIRST MIDDLESEX DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "TWENTY-FIRST MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "KENNETH I. GORDON, 1 Short St., Bedford, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "TWENTY-FIRST MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "PAUL GIROUARD, JR., 1 Joanne Rd., Burlington, Republican",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "TWENTY-FIRST MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "TWENTY-SECOND MIDDLESEX DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "TWENTY-SECOND MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "MARC T. LOMBARDO, 9 Eubar Cir., Billerica, Republican",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "TWENTY-SECOND MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "GEORGE J. SIMOLARIS, JR., 38 Andover Rd., Billerica, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "TWENTY-SECOND MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "TWENTY-THIRD MIDDLESEX DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "TWENTY-THIRD MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "SEAN GARBALLEY, 45 Maynard St., Arlington, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "TWENTY-THIRD MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "TWENTY-FOURTH MIDDLESEX DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "TWENTY-FOURTH MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "DAVID M. ROGERS, 18 Richard Ave., Cambridge, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "TWENTY-FOURTH MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "TWENTY-FIFTH MIDDLESEX DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "TWENTY-FIFTH MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "MARJORIE C. DECKER, 61 Walden St., Cambridge, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "TWENTY-FIFTH MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "TWENTY-SIXTH MIDDLESEX DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "TWENTY-SIXTH MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "MIKE CONNOLLY, 20 Harding St., Cambridge, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "TWENTY-SIXTH MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "TWENTY-SEVENTH MIDDLESEX DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "TWENTY-SEVENTH MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "DENISE PROVOST, 20 Albion St., Somerville, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "TWENTY-SEVENTH MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "AARON JAMES, 54 Adams St., Somerville, Pirate",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "TWENTY-SEVENTH MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "TWENTY-EIGHTH MIDDLESEX DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "TWENTY-EIGHTH MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "JOSEPH W. McGONAGLE, JR., 46 Corey St., Everett, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "TWENTY-EIGHTH MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "TWENTY-NINTH MIDDLESEX DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "TWENTY-NINTH MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "JONATHAN HECHT, 159 Russell Ave., Watertown, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "TWENTY-NINTH MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "THIRTIETH MIDDLESEX DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "THIRTIETH MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "JAMES J. DWYER, 7 Wyman St., Woburn, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "THIRTIETH MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "THIRTY-FIRST MIDDLESEX DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "THIRTY-FIRST MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "MICHAEL SEAMUS DAY, 49 Perkins St., Stoneham, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "THIRTY-FIRST MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "CAROLINE COLARUSSO, 4 Patrick Cir., Stoneham, Republican",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "THIRTY-FIRST MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "THIRTY-SECOND MIDDLESEX DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "THIRTY-SECOND MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "PAUL BRODEUR, 125 Trenton St., Melrose, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "THIRTY-SECOND MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "THIRTY-THIRD MIDDLESEX DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "THIRTY-THIRD MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "STEVEN ULTRINO, 39 Adams St., Malden, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "THIRTY-THIRD MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "THIRTY-FOURTH MIDDLESEX DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "THIRTY-FOURTH MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "CHRISTINE P. BARBER, 16 Packard Ave., Somerville, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "THIRTY-FOURTH MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "THIRTY-FIFTH MIDDLESEX DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "THIRTY-FIFTH MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "PAUL J. DONATO, 48 Maurice St., Medford, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "THIRTY-FIFTH MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "THIRTY-SIXTH MIDDLESEX DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "THIRTY-SIXTH MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "COLLEEN M. GARRY, 55 Chapman St., Dracut, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "THIRTY-SIXTH MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "THIRTY-SEVENTH MIDDLESEX DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "THIRTY-SEVENTH MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "JENNIFER E. BENSON, 1010 Flat Hill Rd., Lunenburg, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "THIRTY-SEVENTH MIDDLESEX DISTRICT"
+    },
+    {
+        "candidate": "FIRST NORFOLK DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FIRST NORFOLK DISTRICT"
+    },
+    {
+        "candidate": "BRUCE J. AYERS, 45 Williams St., Quincy, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FIRST NORFOLK DISTRICT"
+    },
+    {
+        "candidate": "SECOND NORFOLK DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SECOND NORFOLK DISTRICT"
+    },
+    {
+        "candidate": "TACKEY CHAN, 66 Meadowbrook Rd., Quincy, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SECOND NORFOLK DISTRICT"
+    },
+    {
+        "candidate": "THIRD NORFOLK DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "THIRD NORFOLK DISTRICT"
+    },
+    {
+        "candidate": "RONALD MARIANO, 200 Falls Blvd., Quincy, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "THIRD NORFOLK DISTRICT"
+    },
+    {
+        "candidate": "FOURTH NORFOLK DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FOURTH NORFOLK DISTRICT"
+    },
+    {
+        "candidate": "JAMES MICHAEL MURPHY, 483 Middle St., Weymouth, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FOURTH NORFOLK DISTRICT"
+    },
+    {
+        "candidate": "FIFTH NORFOLK DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FIFTH NORFOLK DISTRICT"
+    },
+    {
+        "candidate": "MARK J. CUSACK, 74 Brow Ave., Braintree, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FIFTH NORFOLK DISTRICT"
+    },
+    {
+        "candidate": "SIXTH NORFOLK DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SIXTH NORFOLK DISTRICT"
+    },
+    {
+        "candidate": "WILLIAM C. GALVIN, 45 Kelly Way, Canton, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SIXTH NORFOLK DISTRICT"
+    },
+    {
+        "candidate": "SEVENTH NORFOLK DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SEVENTH NORFOLK DISTRICT"
+    },
+    {
+        "candidate": "WILLIAM J. DRISCOLL, JR., 625 Adams St., Milton, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SEVENTH NORFOLK DISTRICT"
+    },
+    {
+        "candidate": "EIGHTH NORFOLK DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "EIGHTH NORFOLK DISTRICT"
+    },
+    {
+        "candidate": "LOUIS L. KAFKA, 95 Erin Rd., Stoughton, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "EIGHTH NORFOLK DISTRICT"
+    },
+    {
+        "candidate": "NINTH NORFOLK DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "NINTH NORFOLK DISTRICT"
+    },
+    {
+        "candidate": "SHAWN C. DOOLEY, 11 Wright Farm Rd., Norfolk, Republican",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "NINTH NORFOLK DISTRICT"
+    },
+    {
+        "candidate": "BRIAN P. HAMLIN, 103 High St., Plainville, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "NINTH NORFOLK DISTRICT"
+    },
+    {
+        "candidate": "TENTH NORFOLK DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "TENTH NORFOLK DISTRICT"
+    },
+    {
+        "candidate": "JEFFREY N. ROY, 6 Lydia Ln., Franklin, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "TENTH NORFOLK DISTRICT"
+    },
+    {
+        "candidate": "ELEVENTH NORFOLK DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "ELEVENTH NORFOLK DISTRICT"
+    },
+    {
+        "candidate": "PAUL McMURTRY, 7 South Stone Mill Dr., Dedham, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "ELEVENTH NORFOLK DISTRICT"
+    },
+    {
+        "candidate": "TWELFTH NORFOLK DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "TWELFTH NORFOLK DISTRICT"
+    },
+    {
+        "candidate": "JOHN H. ROGERS, 194 Plantation Cir., Norwood, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "TWELFTH NORFOLK DISTRICT"
+    },
+    {
+        "candidate": "TIM HEMPTON, 47 Christina Dr., Walpole, Republican",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "TWELFTH NORFOLK DISTRICT"
+    },
+    {
+        "candidate": "THIRTEENTH NORFOLK DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "THIRTEENTH NORFOLK DISTRICT"
+    },
+    {
+        "candidate": "DENISE C. GARLICK, 22 Trout Pond Ln., Needham, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "THIRTEENTH NORFOLK DISTRICT"
+    },
+    {
+        "candidate": "FOURTEENTH NORFOLK DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FOURTEENTH NORFOLK DISTRICT"
+    },
+    {
+        "candidate": "ALICE HANLON PEISCH, 14 Wiswall Cir., Wellesley, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FOURTEENTH NORFOLK DISTRICT"
+    },
+    {
+        "candidate": "FIFTEENTH NORFOLK DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FIFTEENTH NORFOLK DISTRICT"
+    },
+    {
+        "candidate": "FRANK ISRAEL SMIZIK, 42 Russell St., Brookline, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FIFTEENTH NORFOLK DISTRICT"
+    },
+    {
+        "candidate": "FIRST PLYMOUTH DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FIRST PLYMOUTH DISTRICT"
+    },
+    {
+        "candidate": "MATHEW J. MURATORE, 15 Gabriel Ln., Plymouth, Republican",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FIRST PLYMOUTH DISTRICT"
+    },
+    {
+        "candidate": "JOHN T. MAHONEY, JR., 8 Whiting St., Plymouth, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FIRST PLYMOUTH DISTRICT"
+    },
+    {
+        "candidate": "SECOND PLYMOUTH DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SECOND PLYMOUTH DISTRICT"
+    },
+    {
+        "candidate": "SUSAN WILLIAMS GIFFORD, 11 Lincoln Hwy, Wareham, Republican",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SECOND PLYMOUTH DISTRICT"
+    },
+    {
+        "candidate": "SARAH G. HEWINS, 52 Forest St., Carver, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SECOND PLYMOUTH DISTRICT"
+    },
+    {
+        "candidate": "THIRD PLYMOUTH DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "THIRD PLYMOUTH DISTRICT"
+    },
+    {
+        "candidate": "KRISTEN G. ARUTE, 388 Gardner., Hingham, Republican",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "THIRD PLYMOUTH DISTRICT"
+    },
+    {
+        "candidate": "JOAN MESCHINO, 1 Bradford Ave., Hull, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "THIRD PLYMOUTH DISTRICT"
+    },
+    {
+        "candidate": "FOURTH PLYMOUTH DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FOURTH PLYMOUTH DISTRICT"
+    },
+    {
+        "candidate": "JAMES M. CANTWELL, 103 Tilden Rd., Marshfield, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FOURTH PLYMOUTH DISTRICT"
+    },
+    {
+        "candidate": "MICHAEL WHITE, 17 Gates Rd., Marshfield, Republican",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FOURTH PLYMOUTH DISTRICT"
+    },
+    {
+        "candidate": "FIFTH PLYMOUTH DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FIFTH PLYMOUTH DISTRICT"
+    },
+    {
+        "candidate": "DAVID F. DeCOSTE, 285 Grove St., Norwell, Republican",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FIFTH PLYMOUTH DISTRICT"
+    },
+    {
+        "candidate": "KARA L. NYMAN, 20 King Phillip Ln., Hanover, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FIFTH PLYMOUTH DISTRICT"
+    },
+    {
+        "candidate": "SIXTH PLYMOUTH DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SIXTH PLYMOUTH DISTRICT"
+    },
+    {
+        "candidate": "JOSH S. CUTLER, 4 Duck Hill Rd., Duxbury, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SIXTH PLYMOUTH DISTRICT"
+    },
+    {
+        "candidate": "VINCE COGLIANO, 170 Old Washington St., Pembroke, Republican",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SIXTH PLYMOUTH DISTRICT"
+    },
+    {
+        "candidate": "SEVENTH PLYMOUTH DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SEVENTH PLYMOUTH DISTRICT"
+    },
+    {
+        "candidate": "GEOFF DIEHL, 10 Village Way, Whitman, Republican",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SEVENTH PLYMOUTH DISTRICT"
+    },
+    {
+        "candidate": "EIGHTH PLYMOUTH DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "EIGHTH PLYMOUTH DISTRICT"
+    },
+    {
+        "candidate": "ANGELO L. D\u2019EMILIA, 78 High St., Bridgewater, Republican",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "EIGHTH PLYMOUTH DISTRICT"
+    },
+    {
+        "candidate": "NINTH PLYMOUTH DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "NINTH PLYMOUTH DISTRICT"
+    },
+    {
+        "candidate": "GERARD J. CASSIDY, 68 Woodard Ave., Brockton, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "NINTH PLYMOUTH DISTRICT"
+    },
+    {
+        "candidate": "DANNY J. YOON, 54 Haverhill St., Brockton, Republican",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "NINTH PLYMOUTH DISTRICT"
+    },
+    {
+        "candidate": "TENTH PLYMOUTH DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "TENTH PLYMOUTH DISTRICT"
+    },
+    {
+        "candidate": "MICHELLE M. DuBOIS, 6 Banks St., Brockton, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "TENTH PLYMOUTH DISTRICT"
+    },
+    {
+        "candidate": "ELEVENTH PLYMOUTH DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "ELEVENTH PLYMOUTH DISTRICT"
+    },
+    {
+        "candidate": "CLAIRE D. CRONIN, 53 Cosma Rd., Easton, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "ELEVENTH PLYMOUTH DISTRICT"
+    },
+    {
+        "candidate": "TWELFTH PLYMOUTH DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "TWELFTH PLYMOUTH DISTRICT"
+    },
+    {
+        "candidate": "THOMAS J. CALTER, III, 7 Center St., Kingston, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "TWELFTH PLYMOUTH DISTRICT"
+    },
+    {
+        "candidate": "PETER J. BONCEK, 3 Tree Farm Est., Kingston, Republican",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "TWELFTH PLYMOUTH DISTRICT"
+    },
+    {
+        "candidate": "FIRST SUFFOLK DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FIRST SUFFOLK DISTRICT"
+    },
+    {
+        "candidate": "ADRIAN C. MADARO, 104 White St., Boston, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FIRST SUFFOLK DISTRICT"
+    },
+    {
+        "candidate": "SECOND SUFFOLK DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SECOND SUFFOLK DISTRICT"
+    },
+    {
+        "candidate": "DANIEL JOSEPH RYAN, 19 Essex St., Boston, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SECOND SUFFOLK DISTRICT"
+    },
+    {
+        "candidate": "THIRD SUFFOLK DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "THIRD SUFFOLK DISTRICT"
+    },
+    {
+        "candidate": "AARON MICHLEWITZ, 32 Fleet St., Boston, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "THIRD SUFFOLK DISTRICT"
+    },
+    {
+        "candidate": "FOURTH SUFFOLK DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FOURTH SUFFOLK DISTRICT"
+    },
+    {
+        "candidate": "NICK COLLINS, 45 M St., Boston, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FOURTH SUFFOLK DISTRICT"
+    },
+    {
+        "candidate": "FIFTH SUFFOLK DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FIFTH SUFFOLK DISTRICT"
+    },
+    {
+        "candidate": "EVANDRO C. CARVALHO, 17 Corwin St., Boston, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FIFTH SUFFOLK DISTRICT"
+    },
+    {
+        "candidate": "ALTHEA GARRISON, 98 Howard Ave., Boston, Republican",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FIFTH SUFFOLK DISTRICT"
+    },
+    {
+        "candidate": "SIXTH SUFFOLK DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SIXTH SUFFOLK DISTRICT"
+    },
+    {
+        "candidate": "RUSSELL E. HOLMES, 80 Goodale Rd., Boston, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SIXTH SUFFOLK DISTRICT"
+    },
+    {
+        "candidate": "SEVENTH SUFFOLK DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SEVENTH SUFFOLK DISTRICT"
+    },
+    {
+        "candidate": "CHYNAH TYLER, 59 Dudley St., Boston, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SEVENTH SUFFOLK DISTRICT"
+    },
+    {
+        "candidate": "EIGHTH SUFFOLK DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "EIGHTH SUFFOLK DISTRICT"
+    },
+    {
+        "candidate": "JAY D. LIVINGSTONE, 19 Revere St., Boston, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "EIGHTH SUFFOLK DISTRICT"
+    },
+    {
+        "candidate": "NINTH SUFFOLK DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "NINTH SUFFOLK DISTRICT"
+    },
+    {
+        "candidate": "BYRON RUSHING, 16 Harcourt St., Boston, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "NINTH SUFFOLK DISTRICT"
+    },
+    {
+        "candidate": "TENTH SUFFOLK DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "TENTH SUFFOLK DISTRICT"
+    },
+    {
+        "candidate": "EDWARD F. COPPINGER, 227 Manthorne Rd., Boston, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "TENTH SUFFOLK DISTRICT"
+    },
+    {
+        "candidate": "ELEVENTH SUFFOLK DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "ELEVENTH SUFFOLK DISTRICT"
+    },
+    {
+        "candidate": "ELIZABETH A. MALIA, 72 Child St., Boston, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "ELEVENTH SUFFOLK DISTRICT"
+    },
+    {
+        "candidate": "STEPHEN CHARLES BEDELL, 38 Robeson St., Boston, New Progressive Leadership",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "ELEVENTH SUFFOLK DISTRICT"
+    },
+    {
+        "candidate": "TWELFTH SUFFOLK DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "TWELFTH SUFFOLK DISTRICT"
+    },
+    {
+        "candidate": "DAN CULLINANE, 6 Jo Anne Ter., Boston, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "TWELFTH SUFFOLK DISTRICT"
+    },
+    {
+        "candidate": "THIRTEENTH SUFFOLK DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "THIRTEENTH SUFFOLK DISTRICT"
+    },
+    {
+        "candidate": "DANIEL J. HUNT, 31 Pierce Ave., Boston, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "THIRTEENTH SUFFOLK DISTRICT"
+    },
+    {
+        "candidate": "FOURTEENTH SUFFOLK DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FOURTEENTH SUFFOLK DISTRICT"
+    },
+    {
+        "candidate": "ANGELO M. SCACCIA, 59 Readville St., Boston, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FOURTEENTH SUFFOLK DISTRICT"
+    },
+    {
+        "candidate": "FIFTEENTH SUFFOLK DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FIFTEENTH SUFFOLK DISTRICT"
+    },
+    {
+        "candidate": "JEFFREY S\u00c1NCHEZ, 41 Malcolm Rd., Boston, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FIFTEENTH SUFFOLK DISTRICT"
+    },
+    {
+        "candidate": "SIXTEENTH SUFFOLK DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SIXTEENTH SUFFOLK DISTRICT"
+    },
+    {
+        "candidate": "ROSELEE VINCENT, 350 Revere Beach Blvd., Revere, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SIXTEENTH SUFFOLK DISTRICT"
+    },
+    {
+        "candidate": "SEVENTEENTH SUFFOLK DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SEVENTEENTH SUFFOLK DISTRICT"
+    },
+    {
+        "candidate": "KEVIN G. HONAN, 192 Faneuil St., Boston, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SEVENTEENTH SUFFOLK DISTRICT"
+    },
+    {
+        "candidate": "EIGHTEENTH SUFFOLK DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "EIGHTEENTH SUFFOLK DISTRICT"
+    },
+    {
+        "candidate": "MICHAEL J. MORAN, 67 Burton St., Boston, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "EIGHTEENTH SUFFOLK DISTRICT"
+    },
+    {
+        "candidate": "NINETEENTH SUFFOLK DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "NINETEENTH SUFFOLK DISTRICT"
+    },
+    {
+        "candidate": "ROBERT A. DeLEO, 5 Eleanor Ct., Winthrop, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "NINETEENTH SUFFOLK DISTRICT"
+    },
+    {
+        "candidate": "FIRST WORCESTER DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FIRST WORCESTER DISTRICT"
+    },
+    {
+        "candidate": "KIMBERLY N. FERGUSON, 902 Oakwood St., Holden, Republican",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FIRST WORCESTER DISTRICT"
+    },
+    {
+        "candidate": "SECOND WORCESTER DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SECOND WORCESTER DISTRICT"
+    },
+    {
+        "candidate": "JONATHAN D. ZLOTNIK, 164 Sherman St., Gardner, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SECOND WORCESTER DISTRICT"
+    },
+    {
+        "candidate": "THIRD WORCESTER DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "THIRD WORCESTER DISTRICT"
+    },
+    {
+        "candidate": "STEPHAN HAY, 30 Shawna St., Fitchburg, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "THIRD WORCESTER DISTRICT"
+    },
+    {
+        "candidate": "FOURTH WORCESTER DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FOURTH WORCESTER DISTRICT"
+    },
+    {
+        "candidate": "THOMAS F. ARDINGER, 12 Narcissus Rd., Leominster, Republican",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FOURTH WORCESTER DISTRICT"
+    },
+    {
+        "candidate": "NATALIE HIGGINS, 333 Elm St., Leominster, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FOURTH WORCESTER DISTRICT"
+    },
+    {
+        "candidate": "FIFTH WORCESTER DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FIFTH WORCESTER DISTRICT"
+    },
+    {
+        "candidate": "DONALD R. BERTHIAUME, JR., 140 Charlton Rd., Spencer, Republican",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FIFTH WORCESTER DISTRICT"
+    },
+    {
+        "candidate": "SIXTH WORCESTER DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SIXTH WORCESTER DISTRICT"
+    },
+    {
+        "candidate": "PETER J. DURANT, 109 Charlton Rd., Spencer, Republican",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SIXTH WORCESTER DISTRICT"
+    },
+    {
+        "candidate": "SEVENTH WORCESTER DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SEVENTH WORCESTER DISTRICT"
+    },
+    {
+        "candidate": "PAUL K. FROST, 308 Rochdale St., Auburn, Republican",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SEVENTH WORCESTER DISTRICT"
+    },
+    {
+        "candidate": "TERRY BURKE DOTSON, 20 Salo Ter., Millbury, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SEVENTH WORCESTER DISTRICT"
+    },
+    {
+        "candidate": "EIGHTH WORCESTER DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "EIGHTH WORCESTER DISTRICT"
+    },
+    {
+        "candidate": "KEVIN J. KUROS, 18 Yankee\u2019s Way, Uxbridge, Republican",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "EIGHTH WORCESTER DISTRICT"
+    },
+    {
+        "candidate": "NINTH WORCESTER DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "NINTH WORCESTER DISTRICT"
+    },
+    {
+        "candidate": "DAVID K. MURADIAN, JR., 34 Gordon Cir., Grafton, Republican",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "NINTH WORCESTER DISTRICT"
+    },
+    {
+        "candidate": "TENTH WORCESTER DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "TENTH WORCESTER DISTRICT"
+    },
+    {
+        "candidate": "SANDRA E. SLATTERY BIAGETTI, 139 Dutcher St., Hopedale, Republican",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "TENTH WORCESTER DISTRICT"
+    },
+    {
+        "candidate": "BRIAN W. MURRAY, 23 Congress Ter., Milford, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "TENTH WORCESTER DISTRICT"
+    },
+    {
+        "candidate": "ELEVENTH WORCESTER DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "ELEVENTH WORCESTER DISTRICT"
+    },
+    {
+        "candidate": "HANNAH E. KANE, 32 Main Cir., Shrewsbury, Republican",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "ELEVENTH WORCESTER DISTRICT"
+    },
+    {
+        "candidate": "TWELFTH WORCESTER DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "TWELFTH WORCESTER DISTRICT"
+    },
+    {
+        "candidate": "HAROLD P. NAUGHTON, JR., 13 Haskell Ave., Clinton, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "TWELFTH WORCESTER DISTRICT"
+    },
+    {
+        "candidate": "CHARLENE R. DiCALOGERO, 56 Village Court, Berlin, Green-Rainbow",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "TWELFTH WORCESTER DISTRICT"
+    },
+    {
+        "candidate": "THIRTEENTH WORCESTER DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "THIRTEENTH WORCESTER DISTRICT"
+    },
+    {
+        "candidate": "JOHN J. MAHONEY, 138 North Newton Ave., Worcester, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "THIRTEENTH WORCESTER DISTRICT"
+    },
+    {
+        "candidate": "FOURTEENTH WORCESTER DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FOURTEENTH WORCESTER DISTRICT"
+    },
+    {
+        "candidate": "JAMES J. O\u2019DAY, 41 Winthrop St., West Boylston, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FOURTEENTH WORCESTER DISTRICT"
+    },
+    {
+        "candidate": "FIFTEENTH WORCESTER DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FIFTEENTH WORCESTER DISTRICT"
+    },
+    {
+        "candidate": "MARY S. KEEFE, 10 Oxford St., Worcester, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FIFTEENTH WORCESTER DISTRICT"
+    },
+    {
+        "candidate": "RALPH PEREZ, 778 Main St., Worcester, Unenrolled",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "FIFTEENTH WORCESTER DISTRICT"
+    },
+    {
+        "candidate": "SIXTEENTH WORCESTER DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SIXTEENTH WORCESTER DISTRICT"
+    },
+    {
+        "candidate": "DANIEL M. DONAHUE, 9 Malmo St., Worcester, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SIXTEENTH WORCESTER DISTRICT"
+    },
+    {
+        "candidate": "JOHN P. FRESOLO, 25 Dolly Dr., Worcester, United Independent Party",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SIXTEENTH WORCESTER DISTRICT"
+    },
+    {
+        "candidate": "SEVENTEENTH WORCESTER DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SEVENTEENTH WORCESTER DISTRICT"
+    },
+    {
+        "candidate": "KATE D. CAMPANALE, 18 Broad St., Leicester, Republican",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SEVENTEENTH WORCESTER DISTRICT"
+    },
+    {
+        "candidate": "MOSES S. DIXON, 5 Claremont St., Worcester, Democratic",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "SEVENTEENTH WORCESTER DISTRICT"
+    },
+    {
+        "candidate": "EIGHTEENTH WORCESTER DISTRICT",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "EIGHTEENTH WORCESTER DISTRICT"
+    },
+    {
+        "candidate": "JOSEPH D. McKENNA, 7 Batten St., Webster, Republican",
+        "position": "REPRESENTATIVE IN GENERAL COURT",
+        "zone": "EIGHTEENTH WORCESTER DISTRICT"
+    },
+    {
+        "candidate": "BARNSTABLE COUNTY",
+        "position": "SHERIFF",
+        "zone": "BARNSTABLE COUNTY"
+    },
+    {
+        "candidate": "JAMES M. CUMMINGS, 20 Hudson St., Falmouth, Republican",
+        "position": "SHERIFF",
+        "zone": "BARNSTABLE COUNTY"
+    },
+    {
+        "candidate": "RANDY P. AZZATO, 39 Rolling Acres Ln., Falmouth, Democratic",
+        "position": "SHERIFF",
+        "zone": "BARNSTABLE COUNTY"
+    },
+    {
+        "candidate": "BERKSHIRE COUNTY",
+        "position": "SHERIFF",
+        "zone": "BERKSHIRE COUNTY"
+    },
+    {
+        "candidate": "THOMAS N. BOWLER, 114 Jason St., Pittsfield, Democratic",
+        "position": "SHERIFF",
+        "zone": "BERKSHIRE COUNTY"
+    },
+    {
+        "candidate": "BRISTOL COUNTY",
+        "position": "SHERIFF",
+        "zone": "BRISTOL COUNTY"
+    },
+    {
+        "candidate": "THOMAS M. HODGSON, 158 Hathaway Rd., Dartmouth, Republican",
+        "position": "SHERIFF",
+        "zone": "BRISTOL COUNTY"
+    },
+    {
+        "candidate": "DUKES COUNTY",
+        "position": "SHERIFF",
+        "zone": "DUKES COUNTY"
+    },
+    {
+        "candidate": "ROBERT OGDEN, 223 Vineyard Meadows Farm, West Tisbury, Democratic",
+        "position": "SHERIFF",
+        "zone": "DUKES COUNTY"
+    },
+    {
+        "candidate": "NEAL J. MACIEL, 36 Michaels Way, Tisbury, Unenrolled",
+        "position": "SHERIFF",
+        "zone": "DUKES COUNTY"
+    },
+    {
+        "candidate": "ESSEX COUNTY",
+        "position": "SHERIFF",
+        "zone": "ESSEX COUNTY"
+    },
+    {
+        "candidate": "KEVIN F. COPPINGER, 37 Martin Rd., Lynn, Democratic",
+        "position": "SHERIFF",
+        "zone": "ESSEX COUNTY"
+    },
+    {
+        "candidate": "ANNE M. MANNING-MARTIN, 37 Dexter St., Peabody, Republican",
+        "position": "SHERIFF",
+        "zone": "ESSEX COUNTY"
+    },
+    {
+        "candidate": "MARK E. ARCHER, 240 Dudley Rd., Bedford, Independent",
+        "position": "SHERIFF",
+        "zone": "ESSEX COUNTY"
+    },
+    {
+        "candidate": "KEVIN J. LEACH, 33 Summer St., Manchester-By-The-Sea, Independent",
+        "position": "SHERIFF",
+        "zone": "ESSEX COUNTY"
+    },
+    {
+        "candidate": "FRANKLIN COUNTY",
+        "position": "SHERIFF",
+        "zone": "FRANKLIN COUNTY"
+    },
+    {
+        "candidate": "CHRISTOPHER J. DONELAN, 186 Walnut Hill Rd., Orange, Democratic",
+        "position": "SHERIFF",
+        "zone": "FRANKLIN COUNTY"
+    },
+    {
+        "candidate": "HAMPDEN COUNTY",
+        "position": "SHERIFF",
+        "zone": "HAMPDEN COUNTY"
+    },
+    {
+        "candidate": "NICK COCCHI, 48 Jackie Dr., Ludlow, Democratic",
+        "position": "SHERIFF",
+        "zone": "HAMPDEN COUNTY"
+    },
+    {
+        "candidate": "JOHN M. COMERFORD, 9 South High St., Palmer, Republican",
+        "position": "SHERIFF",
+        "zone": "HAMPDEN COUNTY"
+    },
+    {
+        "candidate": "JAMES L. GILL, JR., 8 Highridge Rd., Wilbraham, Unenrolled",
+        "position": "SHERIFF",
+        "zone": "HAMPDEN COUNTY"
+    },
+    {
+        "candidate": "HAMPSHIRE COUNTY",
+        "position": "SHERIFF",
+        "zone": "HAMPSHIRE COUNTY"
+    },
+    {
+        "candidate": "PATRICK J. CAHILLANE, 116 Florence St., Northampton, Democratic",
+        "position": "SHERIFF",
+        "zone": "HAMPSHIRE COUNTY"
+    },
+    {
+        "candidate": "DAVID F. ISAKSON, 95 Richview Ave., South Hadley, Republican",
+        "position": "SHERIFF",
+        "zone": "HAMPSHIRE COUNTY"
+    },
+    {
+        "candidate": "PETER J. KOUTOUJIAN, 33 Harris St., Waltham, Democratic",
+        "position": "SHERIFF",
+        "zone": "MIDDLESEX COUNTY"
+    },
+    {
+        "candidate": "JAMES A. PERELMAN, 65 A Milestone Rd., Nantucket, Democratic /Republican",
+        "position": "SHERIFF",
+        "zone": "NANTUCKET COUNTY"
+    },
+    {
+        "candidate": "DAVID J. AGUIAR, 12 Surfside Dr., Nantucket, Unenrolled",
+        "position": "SHERIFF",
+        "zone": "NANTUCKET COUNTY"
+    },
+    {
+        "candidate": "MICHAEL G. BELLOTTI, 33 Bayberry Rd., Quincy, Democratic",
+        "position": "SHERIFF",
+        "zone": "NORFOLK COUNTY"
+    },
+    {
+        "candidate": "JOSEPH D. McDONALD, JR., 26 Ortolani Cir., Kingston, Republican",
+        "position": "SHERIFF",
+        "zone": "PLYMOUTH COUNTY"
+    },
+    {
+        "candidate": "SCOTT M. VECCHI, 45 Gunners Exchange Rd., Plymouth, Democratic",
+        "position": "SHERIFF",
+        "zone": "PLYMOUTH COUNTY"
+    },
+    {
+        "candidate": "STEVEN W. TOMPKINS, 106 Williams Ave., Boston, Democratic",
+        "position": "SHERIFF",
+        "zone": "SUFFOLK COUNTY"
+    },
+    {
+        "candidate": "LEWIS G. EVANGELIDIS, 52 Prospect St., Rutland, Republican",
+        "position": "SHERIFF",
+        "zone": "WORCESTER COUNTY"
+    },
+    {
+        "candidate": "MARY PAT FLYNN, 545 West Falmouth Hwy, Falmouth, Democratic",
+        "position": "COUNTY COMMISSIONER",
+        "zone": "BARNSTABLE COUNTY"
+    },
+    {
+        "candidate": "RONALD R. BEATY, JR., 245 Parker Rd., Barnstable, Republican",
+        "position": "COUNTY COMMISSIONER",
+        "zone": "BARNSTABLE COUNTY"
+    },
+    {
+        "candidate": "LINDA A. BOND, 4 Keel Cape Dr., Yarmouth, Republican",
+        "position": "COUNTY COMMISSIONER",
+        "zone": "BARNSTABLE COUNTY"
+    },
+    {
+        "candidate": "MARK R. FOREST, 83 Indian Memorial Dr., Yarmouth, Democratic",
+        "position": "COUNTY COMMISSIONER",
+        "zone": "BARNSTABLE COUNTY"
+    },
+    {
+        "candidate": "PAUL B. KITCHEN, 11 Deerfield Ln., Fairhaven, Democratic",
+        "position": "COUNTY COMMISSIONER",
+        "zone": "BRISTOL COUNTY"
+    },
+    {
+        "candidate": "JOHN R. MITCHELL, 312 Florence St., Fall River, Democratic",
+        "position": "COUNTY COMMISSIONER",
+        "zone": "BRISTOL COUNTY"
+    },
+    {
+        "candidate": "JOHN S. ALLEY, 1058 State Rd., West Tisbury, Democratic",
+        "position": "COUNTY COMMISSIONER",
+        "zone": "DUKES COUNTY"
+    },
+    {
+        "candidate": "LEON ARTHUR BRATHWAITE, II, 9 Vineyard Meadow Farms Rd., West Tisbury, Democratic",
+        "position": "COUNTY COMMISSIONER",
+        "zone": "DUKES COUNTY"
+    },
+    {
+        "candidate": "DAVID JEFFREY HOLWAY, 24 Kitts Field Cir., Edgartown, Democratic",
+        "position": "COUNTY COMMISSIONER",
+        "zone": "DUKES COUNTY"
+    },
+    {
+        "candidate": "TRISTAN R. ISRAEL, 77 Snake Hollow, Tisbury, Unenrolled",
+        "position": "COUNTY COMMISSIONER",
+        "zone": "DUKES COUNTY"
+    },
+    {
+        "candidate": "CHRISTINE CATHERINE TODD, 64 Pennacook Ave., Oak Bluffs, Democratic",
+        "position": "COUNTY COMMISSIONER",
+        "zone": "DUKES COUNTY"
+    },
+    {
+        "candidate": "GRETCHEN TUCKER UNDERWOOD, 6 Gorham Ave., Oak Bluffs, Democratic",
+        "position": "COUNTY COMMISSIONER",
+        "zone": "DUKES COUNTY"
+    },
+    {
+        "candidate": "NORMAN L. PERRY, 134 South Rd., Chilmark, Republican",
+        "position": "COUNTY COMMISSIONER",
+        "zone": "DUKES COUNTY"
+    },
+    {
+        "candidate": "ROBERT ZELTZER, 24 Cranberry Hill Rd., Chilmark, Independent",
+        "position": "COUNTY COMMISSIONER",
+        "zone": "DUKES COUNTY"
+    },
+    {
+        "candidate": "FRANCIS W. O\u2019BRIEN, 1000 Presidents Way, Dedham, Democratic",
+        "position": "COUNTY COMMISSIONER",
+        "zone": "NORFOLK COUNTY"
+    },
+    {
+        "candidate": "JOSEPH P. SHEA, 6 Heritage Rd., Quincy, Democratic",
+        "position": "COUNTY COMMISSIONER",
+        "zone": "NORFOLK COUNTY"
+    },
+    {
+        "candidate": "GREG HANLEY, 18 Mackenzie Orchard, Pembroke, Democratic",
+        "position": "COUNTY COMMISSIONER",
+        "zone": "PLYMOUTH COUNTY"
+    },
+    {
+        "candidate": "DANIEL A. PALLOTTA, 22 Tilden Ln., Hanover, Republican",
+        "position": "COUNTY COMMISSIONER",
+        "zone": "PLYMOUTH COUNTY"
+    },
+    {
+        "candidate": "LINCOLN D. HEINEMAN, 673 First Parish Rd., Scituate, Democratic",
+        "position": "COUNTY COMMISSIONER",
+        "zone": "PLYMOUTH COUNTY"
+    },
+    {
+        "candidate": "",
+        "position": "COUNTY COMMISSIONER",
+        "zone": "PLYMOUTH COUNTY"
+    },
+    {
+        "candidate": "JAY D. DiPUCCHIO, 35 Central St., Montague",
+        "position": "COUNCIL OF GOVERNMENTS EXECUTIVE COMMITTEE",
+        "zone": "FRANKLIN COUNTY"
+    },
+    {
+        "candidate": "THOMAS M. QUINN, III, 375 Eldridge St., Fall River, Democratic",
+        "position": "DISTRICT ATTORNEY (TO FILL VACANCY)",
+        "zone": "BRISTOL DISTRICT"
+    },
+    {
+        "candidate": "PAULO C. DeOLIVEIRA, 27 Mill St., Edgartown, Democratic",
+        "position": "REGISTER OF DEEDS (TO FILL VACANCY)",
+        "zone": "DUKES COUNTY"
+    },
+    {
+        "candidate": "MARTINA THORNTON, 18 Ninth St. N., Edgartown, Unenrolled",
+        "position": "REGISTER OF DEEDS (TO FILL VACANCY)",
+        "zone": "DUKES COUNTY"
+    },
+    {
+        "candidate": "STEPHEN J. MURPHY, 141 Warren Ave., Boston, Democratic",
+        "position": "REGISTER OF DEEDS (TO FILL VACANCY)",
+        "zone": "SUFFOLK COUNTY"
+    },
+    {
+        "candidate": "MARGHERITA CIAMPA-COYNE, 20 Emmett St., Boston, Independent",
+        "position": "REGISTER OF DEEDS (TO FILL VACANCY)",
+        "zone": "SUFFOLK COUNTY"
+    },
+    {
+        "candidate": "JOSEPH M. DONNELLY, JR., 1 Franclaire Dr., Boston, Independent",
+        "position": "REGISTER OF DEEDS (TO FILL VACANCY)",
+        "zone": "SUFFOLK COUNTY"
+    },
+    {
+        "candidate": "JOHN A. KEITH, 407 D St., Boston, Independent",
+        "position": "REGISTER OF DEEDS (TO FILL VACANCY)",
+        "zone": "SUFFOLK COUNTY"
+    },
+    {
+        "candidate": "CLARENCE A. BARNES, III, 300 State Rd., Tisbury",
+        "position": "MARTHA\u2019S VINEYARD COMMISSION",
+        "zone": "CLARENCE A. BARNES, III, 300 State Rd., Tisbury"
+    },
+    {
+        "candidate": "CHRISTINA BROWN, 32 Pine St., Edgartown",
+        "position": "MARTHA\u2019S VINEYARD COMMISSION",
+        "zone": "CLARENCE A. BARNES, III, 300 State Rd., Tisbury"
+    },
+    {
+        "candidate": "ROBERT McMILLEN DOYLE, 35 South Bowl Rd., Chilmark",
+        "position": "MARTHA\u2019S VINEYARD COMMISSION",
+        "zone": "CLARENCE A. BARNES, III, 300 State Rd., Tisbury"
+    },
+    {
+        "candidate": "JOSHUA SETH GOLDSTEIN, 35 Authier Ave., Tisbury",
+        "position": "MARTHA\u2019S VINEYARD COMMISSION",
+        "zone": "CLARENCE A. BARNES, III, 300 State Rd., Tisbury"
+    },
+    {
+        "candidate": "FRED J. HANCOCK, 31 Dudley Ave., Oak Bluffs",
+        "position": "MARTHA\u2019S VINEYARD COMMISSION",
+        "zone": "CLARENCE A. BARNES, III, 300 State Rd., Tisbury"
+    },
+    {
+        "candidate": "ERNEST DOUGLAS SEDERHOLM, 29 Willow Tree Hollow, West Tisbury",
+        "position": "MARTHA\u2019S VINEYARD COMMISSION",
+        "zone": "CLARENCE A. BARNES, III, 300 State Rd., Tisbury"
+    },
+    {
+        "candidate": "LINDA BAUER SIBLEY, 31 Shadbush Ln., West Tisbury",
+        "position": "MARTHA\u2019S VINEYARD COMMISSION",
+        "zone": "CLARENCE A. BARNES, III, 300 State Rd., Tisbury"
+    },
+    {
+        "candidate": "JAMES VERCRUYSSE, 8 Old Field Rd., Aquinnah",
+        "position": "MARTHA\u2019S VINEYARD COMMISSION",
+        "zone": "CLARENCE A. BARNES, III, 300 State Rd., Tisbury"
+    },
+    {
+        "candidate": "JOHN ROBERT BRECKENRIDGE, 7 Clay Ave., Oak Bluffs",
+        "position": "MARTHA\u2019S VINEYARD COMMISSION",
+        "zone": "CLARENCE A. BARNES, III, 300 State Rd., Tisbury"
+    },
+    {
+        "candidate": "SUSAN DESMARAIS, 15 Tiffany Dr., Oak Bluffs",
+        "position": "MARTHA\u2019S VINEYARD COMMISSION",
+        "zone": "CLARENCE A. BARNES, III, 300 State Rd., Tisbury"
+    },
+    {
+        "candidate": "MYRON GARFINKLE, 39 Sarita Walker Rd., West Tisbury",
+        "position": "MARTHA\u2019S VINEYARD COMMISSION",
+        "zone": "CLARENCE A. BARNES, III, 300 State Rd., Tisbury"
+    },
+    {
+        "candidate": "ALLEN M. LOOK, 115 A Oak Ln., West Tisbury",
+        "position": "MARTHA\u2019S VINEYARD COMMISSION",
+        "zone": "CLARENCE A. BARNES, III, 300 State Rd., Tisbury"
+    },
+    {
+        "candidate": "BRIAN C. SMITH, 116 California Ave., Oak Bluffs",
+        "position": "MARTHA\u2019S VINEYARD COMMISSION",
+        "zone": "CLARENCE A. BARNES, III, 300 State Rd., Tisbury"
+    },
+    {
+        "candidate": "RICHARD J. TOOLE, 89 Tradewinds Rd., Oak Bluffs",
+        "position": "MARTHA\u2019S VINEYARD COMMISSION",
+        "zone": "CLARENCE A. BARNES, III, 300 State Rd., Tisbury"
+    },
+    {
+        "candidate": "PATRICK M. PRINCI, 29 Wayside Ln., Barnstable",
+        "position": "BARNSTABLE ASSEMBLY DELEGATE",
+        "zone": "BARNSTABLE"
+    },
+    {
+        "candidate": "LUIZ GONZAGA, 16 School St., Barnstable",
+        "position": "BARNSTABLE ASSEMBLY DELEGATE",
+        "zone": "BARNSTABLE"
+    },
+    {
+        "candidate": "LINDA ZUERN, 107 Valley Bars Rd., Bourne",
+        "position": "BARNSTABLE ASSEMBLY DELEGATE",
+        "zone": "BOURNE"
+    },
+    {
+        "candidate": "AMY KULLAR, 19 Shore Rd., Bourne",
+        "position": "BARNSTABLE ASSEMBLY DELEGATE",
+        "zone": "BOURNE"
+    },
+    {
+        "candidate": "EDWARD S. LEWIS, 179 Far Fields Rd., Brewster",
+        "position": "BARNSTABLE ASSEMBLY DELEGATE",
+        "zone": "BREWSTER"
+    },
+    {
+        "candidate": "MADHAVI VENKATESAN, 59 Trevor Ln., Brewster",
+        "position": "BARNSTABLE ASSEMBLY DELEGATE",
+        "zone": "BREWSTER"
+    },
+    {
+        "candidate": "RONALD J. BERGSTROM, 1347 Old Queen Anne Rd., Chatham",
+        "position": "BARNSTABLE ASSEMBLY DELEGATE",
+        "zone": "CHATHAM"
+    },
+    {
+        "candidate": "JOHN W. OHMAN, 12 Thomas Ct., Dennis",
+        "position": "BARNSTABLE ASSEMBLY DELEGATE",
+        "zone": "DENNIS"
+    },
+    {
+        "candidate": "NO NOMINATIONS",
+        "position": "BARNSTABLE ASSEMBLY DELEGATE",
+        "zone": "EASTHAM"
+    },
+    {
+        "candidate": "SUSAN L. MORAN, 74 Sanddollar Cir., Falmouth",
+        "position": "BARNSTABLE ASSEMBLY DELEGATE",
+        "zone": "FALMOUTH"
+    },
+    {
+        "candidate": "EDWARD J. McMANUS, 41 Parallel St., Harwich",
+        "position": "BARNSTABLE ASSEMBLY DELEGATE",
+        "zone": "HARWICH"
+    },
+    {
+        "candidate": "THOMAS F. O\u2019HARA, 110 Amos Landing Rd., Mashpee",
+        "position": "BARNSTABLE ASSEMBLY DELEGATE",
+        "zone": "MASHPEE"
+    },
+    {
+        "candidate": "CHRISTOPHER W. KANAGA, 46 Defiance Ln., Orleans",
+        "position": "BARNSTABLE ASSEMBLY DELEGATE",
+        "zone": "ORLEANS"
+    },
+    {
+        "candidate": "BRIAN O\u2019MALLEY, 556 Commercial St., Provincetown",
+        "position": "BARNSTABLE ASSEMBLY DELEGATE",
+        "zone": "PROVINCETOWN"
+    },
+    {
+        "candidate": "JAMES J. KILLION, 6 Pierre Vernier Dr., Sandwich",
+        "position": "BARNSTABLE ASSEMBLY DELEGATE",
+        "zone": "SANDWICH"
+    },
+    {
+        "candidate": "DEBORAH L. McCUTCHEON, 3 High View Ln., Truro",
+        "position": "BARNSTABLE ASSEMBLY DELEGATE",
+        "zone": "TRURO"
+    },
+    {
+        "candidate": "LILLI-ANN GREEN, 160 Old County Rd., Wellfleet",
+        "position": "BARNSTABLE ASSEMBLY DELEGATE",
+        "zone": "WELLFLEET"
+    },
+    {
+        "candidate": "OLGA B. KAHN, 30 Marsh View, Wellfleet",
+        "position": "BARNSTABLE ASSEMBLY DELEGATE",
+        "zone": "WELLFLEET"
+    },
+    {
+        "candidate": "E. SUZANNE McAULIFFE, 71 Thacher Shore Rd., Yarmouth",
+        "position": "BARNSTABLE ASSEMBLY DELEGATE",
+        "zone": "YARMOUTH"
+    },
+    {
+        "candidate": "JOSEPH B. GLYNN, 30 Arlington St., Yarmouth",
+        "position": "BARNSTABLE ASSEMBLY DELEGATE",
+        "zone": "YARMOUTH"
+    },
+    {
+        "candidate": "RICHARD DOHONEY, 74 Blue Hills Rd., Great Barrington",
+        "position": "REGIONAL SCHOOL COMMITTEE :        BERKSHIRE HILLS (4 YEARS)",
+        "zone": "GREAT BARRINGTON"
+    },
+    {
+        "candidate": "DIANE SINGER, 2 Brainard Ave., Great Barrington",
+        "position": "REGIONAL SCHOOL COMMITTEE :        BERKSHIRE HILLS (4 YEARS)",
+        "zone": "GREAT BARRINGTON"
+    },
+    {
+        "candidate": "SEAN STEPHEN, 1 Train Hill Rd., Stockbridge",
+        "position": "REGIONAL SCHOOL COMMITTEE :        BERKSHIRE HILLS (4 YEARS)",
+        "zone": "STOCKBRIDGE"
+    },
+    {
+        "candidate": "ANDREW POTTER, 34 High St., West Stockbridge",
+        "position": "REGIONAL SCHOOL COMMITTEE :        BERKSHIRE HILLS (4 YEARS)",
+        "zone": "WEST STOCKBRIDGE"
+    },
+    {
+        "candidate": "NO NOMINATIONS",
+        "position": "REGIONAL VOCATIONAL SCHOOL COMMITTEE -  :        BLUE HILLS (4 YEARS)",
+        "zone": "HOLBROOK"
+    },
+    {
+        "candidate": "FESTUS JOYCE, 104 Washington St., Milton",
+        "position": "REGIONAL VOCATIONAL SCHOOL COMMITTEE -  :        BLUE HILLS (4 YEARS)",
+        "zone": "MILTON"
+    },
+    {
+        "candidate": "KEVIN L. CONNOLLY, 44 Nahatan St., Norwood",
+        "position": "REGIONAL VOCATIONAL SCHOOL COMMITTEE -  :        BLUE HILLS (4 YEARS)",
+        "zone": "NORWOOD"
+    },
+    {
+        "candidate": "MARYBETH NEAREN, 193 Union St., Randolph",
+        "position": "REGIONAL VOCATIONAL SCHOOL COMMITTEE -  :        BLUE HILLS (4 YEARS)",
+        "zone": "RANDOLPH"
+    },
+    {
+        "candidate": "CHARLES W. FLAHIVE, 21 Glen Rd., Westwood",
+        "position": "REGIONAL VOCATIONAL SCHOOL COMMITTEE -  :        BLUE HILLS (4 YEARS)",
+        "zone": "WESTWOOD"
+    },
+    {
+        "candidate": "LINDA M. RADZVILLA, 1391 High St., Westwood",
+        "position": "REGIONAL VOCATIONAL SCHOOL COMMITTEE -  :        BLUE HILLS (4 YEARS)",
+        "zone": "WESTWOOD"
+    },
+    {
+        "candidate": "ELLEN M. BRUNO, 134 Bayview Ave., Berkley",
+        "position": "REGIONAL TECHNICAL SCHOOL COMMITTEE :        BRISTOL-PLYMOUTH (2 YEARS)",
+        "zone": "BERKLEY"
+    },
+    {
+        "candidate": "MARK A. DANGOIA, 21 Red Mill Rd., Bridgewater",
+        "position": "REGIONAL TECHNICAL SCHOOL COMMITTEE :        BRISTOL-PLYMOUTH (2 YEARS)",
+        "zone": "BRIDGEWATER"
+    },
+    {
+        "candidate": "EDWARD F. DUTRA, 2165 Pleasant St., Dighton",
+        "position": "REGIONAL TECHNICAL SCHOOL COMMITTEE :        BRISTOL-PLYMOUTH (2 YEARS)",
+        "zone": "DIGHTON"
+    },
+    {
+        "candidate": "GEORGE L. RANDALL, III, 535 Plymouth St., Middleborough",
+        "position": "REGIONAL TECHNICAL SCHOOL COMMITTEE :        BRISTOL-PLYMOUTH (2 YEARS)",
+        "zone": "MIDDLEBOROUGH"
+    },
+    {
+        "candidate": "TIMOTHY J. HOLICK, 37 Anawan Rd., Raynham",
+        "position": "REGIONAL TECHNICAL SCHOOL COMMITTEE :        BRISTOL-PLYMOUTH (2 YEARS)",
+        "zone": "RAYNHAM"
+    },
+    {
+        "candidate": "JAMES W. CLARK, 116 Wheeler St., Rehoboth",
+        "position": "REGIONAL TECHNICAL SCHOOL COMMITTEE :        BRISTOL-PLYMOUTH (2 YEARS)",
+        "zone": "REHOBOTH"
+    },
+    {
+        "candidate": "THOMAS A. BERNIER, 78 Country Way, Taunton",
+        "position": "REGIONAL TECHNICAL SCHOOL COMMITTEE :        BRISTOL-PLYMOUTH (2 YEARS)",
+        "zone": "TAUNTON"
+    },
+    {
+        "candidate": "LOUIS BORGES, JR., 123 Hart St., Taunton",
+        "position": "REGIONAL TECHNICAL SCHOOL COMMITTEE :        BRISTOL-PLYMOUTH (2 YEARS)",
+        "zone": "TAUNTON"
+    },
+    {
+        "candidate": "JOHN LES, 411 McNerney Rd., Becket",
+        "position": "REGIONAL SCHOOL COMMITTEE :        CENTRAL BERKSHIRE (4 YEARS)",
+        "zone": "BECKET"
+    },
+    {
+        "candidate": "RICHARD FARLEY, 151 Sleepy Hollow Dr., Dalton",
+        "position": "REGIONAL SCHOOL COMMITTEE :        CENTRAL BERKSHIRE (4 YEARS)",
+        "zone": "DALTON"
+    },
+    {
+        "candidate": "RICHARD LACATELL, 46 Patricia Ave., Dalton",
+        "position": "REGIONAL SCHOOL COMMITTEE :        CENTRAL BERKSHIRE (4 YEARS)",
+        "zone": "DALTON"
+    },
+    {
+        "candidate": "NICOLE TUCKER, 456 Kirchner Rd., Dalton",
+        "position": "REGIONAL SCHOOL COMMITTEE :        CENTRAL BERKSHIRE (4 YEARS)",
+        "zone": "DALTON"
+    },
+    {
+        "candidate": "RICHARD PETERS, 305 Smith Rd., Hinsdale",
+        "position": "REGIONAL SCHOOL COMMITTEE :        CENTRAL BERKSHIRE (4 YEARS)",
+        "zone": "HINSDALE"
+    },
+    {
+        "candidate": "BONNY DiTOMASSO, 33 South Rd., Peru",
+        "position": "REGIONAL SCHOOL COMMITTEE :        CENTRAL BERKSHIRE (4 YEARS)",
+        "zone": "PERU"
+    },
+    {
+        "candidate": "MICHAEL CASE, 177 Schulze Rd., Washington",
+        "position": "REGIONAL SCHOOL COMMITTEE :        CENTRAL BERKSHIRE (4 YEARS)",
+        "zone": "WASHINGTON"
+    },
+    {
+        "candidate": "RICHARD WAGNER, 105 Windigo Rd., Windsor",
+        "position": "REGIONAL SCHOOL COMMITTEE :        CENTRAL BERKSHIRE (4 YEARS)",
+        "zone": "WINDSOR"
+    },
+    {
+        "candidate": "SHEILA HEBERT, 98 Brodie Mount Rd., Lanesborough",
+        "position": "REGIONAL SCHOOL COMMITTEE :        MOUNT GREYLOCK (4 YEARS)",
+        "zone": "LANESBOROUGH"
+    },
+    {
+        "candidate": "GARY L. FULS, JR., 82 Elm St., Williamstown",
+        "position": "REGIONAL SCHOOL COMMITTEE :        MOUNT GREYLOCK (4 YEARS)",
+        "zone": "WILLIAMSTOWN"
+    },
+    {
+        "candidate": "STEVEN MILLER, 16 John St., Williamstown",
+        "position": "REGIONAL SCHOOL COMMITTEE :        MOUNT GREYLOCK (4 YEARS)",
+        "zone": "WILLIAMSTOWN"
+    },
+    {
+        "candidate": "NO NOMINATIONS",
+        "position": "REGIONAL SCHOOL COMMITTEE :        MOUNT GREYLOCK (2 YEARS)",
+        "zone": "LANESBOROUGH"
+    },
+    {
+        "candidate": "MOUNT GREYLOCK (TO FILL VACANCY)",
+        "position": "REGIONAL SCHOOL COMMITTEE :        MOUNT GREYLOCK (2 YEARS)",
+        "zone": "REGIONAL SCHOOL COMMITTEE"
+    },
+    {
+        "candidate": "NO NOMINATIONS",
+        "position": "REGIONAL SCHOOL COMMITTEE :        MOUNT GREYLOCK (2 YEARS)",
+        "zone": "LANESBOROUGH"
+    },
+    {
+        "candidate": "",
+        "position": "REGIONAL SCHOOL COMMITTEE :        MOUNT GREYLOCK (2 YEARS)",
+        "zone": "LANESBOROUGH"
+    },
+    {
+        "candidate": "FRANCESCO Dell\u2019OLIO, 281 Chauncey Walker St., Belchertown",
+        "position": "REGIONAL VOCATIONAL TECHNICAL SCHOOL COMMITTEE :        PATHFINDER (4 YEARS)",
+        "zone": "BELCHERTOWN"
+    },
+    {
+        "candidate": "OAKHAM",
+        "position": "REGIONAL VOCATIONAL TECHNICAL SCHOOL COMMITTEE :        PATHFINDER (4 YEARS)",
+        "zone": "BELCHERTOWN"
+    },
+    {
+        "candidate": "NO NOMINATIONS",
+        "position": "REGIONAL VOCATIONAL TECHNICAL SCHOOL COMMITTEE :        PATHFINDER (4 YEARS)",
+        "zone": "BELCHERTOWN"
+    },
+    {
+        "candidate": "DAVID DROZ, 114 Mason St., Palmer",
+        "position": "REGIONAL VOCATIONAL TECHNICAL SCHOOL COMMITTEE :        PATHFINDER (4 YEARS)",
+        "zone": "PALMER"
+    },
+    {
+        "candidate": "CARRIE A. LaTULIPPE, 110 Griffin St., Palmer",
+        "position": "REGIONAL VOCATIONAL TECHNICAL SCHOOL COMMITTEE :        PATHFINDER (4 YEARS)",
+        "zone": "PALMER"
+    },
+    {
+        "candidate": "NO NOMINATIONS",
+        "position": "REGIONAL VOCATIONAL TECHNICAL SCHOOL COMMITTEE :        PATHFINDER (4 YEARS)",
+        "zone": "WARREN"
+    },
+    {
+        "candidate": "JAMES BELL, 613 Brattleboro Rd., Bernardston",
+        "position": "REGIONAL SCHOOL COMMITTEE :        PIONEER VALLEY (4 YEARS)",
+        "zone": "BERNARDSTON"
+    },
+    {
+        "candidate": "DEBRA GILBERT, 355 Bald Mountain Rd., Bernardston",
+        "position": "REGIONAL SCHOOL COMMITTEE :        PIONEER VALLEY (4 YEARS)",
+        "zone": "BERNARDSTON"
+    },
+    {
+        "candidate": "SHARON FONTAINE, 153 Eden Trl, Leyden",
+        "position": "REGIONAL SCHOOL COMMITTEE :        PIONEER VALLEY (4 YEARS)",
+        "zone": "LEYDEN"
+    },
+    {
+        "candidate": "ROBIN C. L\u2019ETOILE, 612 Pine Meadow Rd., Northfield",
+        "position": "REGIONAL SCHOOL COMMITTEE :        PIONEER VALLEY (4 YEARS)",
+        "zone": "NORTHFIELD"
+    },
+    {
+        "candidate": "PATRICIA SHEARER, 101 Cross Rd., Northfield",
+        "position": "REGIONAL SCHOOL COMMITTEE :        PIONEER VALLEY (4 YEARS)",
+        "zone": "NORTHFIELD"
+    },
+    {
+        "candidate": "ROBERT LEIGHTON, 367 Old Wendell Rd., Northfield",
+        "position": "REGIONAL SCHOOL COMMITTEE :        PIONEER VALLEY (4 YEARS)",
+        "zone": "NORTHFIELD"
+    },
+    {
+        "candidate": "DAVID SHOEMAKER, 585 Old Winchester Rd., Warwick",
+        "position": "REGIONAL SCHOOL COMMITTEE :        PIONEER VALLEY (4 YEARS)",
+        "zone": "WARWICK"
+    },
+    {
+        "candidate": "J. DAVID YOUNG, 666 Old Winchester Rd., Warwick",
+        "position": "REGIONAL SCHOOL COMMITTEE :        PIONEER VALLEY (4 YEARS)",
+        "zone": "WARWICK"
+    },
+    {
+        "candidate": "CHARLES LISOWSKI, 212 Old Winchester Rd., Warwick",
+        "position": "REGIONAL SCHOOL COMMITTEE :        PIONEER VALLEY (4 YEARS)",
+        "zone": "WARWICK"
+    },
+    {
+        "candidate": "MARK E. LINDE, 83 Rangeley Ave., Brockton",
+        "position": "REGIONAL VOCATIONAL TECHNICAL SCHOOL COMMITTEE :        SOUTHEASTERN (4 YEARS)",
+        "zone": "BROCKTON"
+    },
+    {
+        "candidate": "STEPHEN P. UDDEN, 21 Carmine Ave., Foxborough",
+        "position": "REGIONAL VOCATIONAL TECHNICAL SCHOOL COMMITTEE :        SOUTHEASTERN (4 YEARS)",
+        "zone": "FOXBOROUGH"
+    },
+    {
+        "candidate": "WILLIAM FLANNERY, 25 Cobb St., Mansfield",
+        "position": "REGIONAL VOCATIONAL TECHNICAL SCHOOL COMMITTEE :        SOUTHEASTERN (4 YEARS)",
+        "zone": "MANSFIELD"
+    },
+    {
+        "candidate": "DENIS J. FEELEY, 18 Colonial Dr., Norton",
+        "position": "REGIONAL VOCATIONAL TECHNICAL SCHOOL COMMITTEE :        SOUTHEASTERN (4 YEARS)",
+        "zone": "NORTON"
+    },
+    {
+        "candidate": "SHARON",
+        "position": "REGIONAL VOCATIONAL TECHNICAL SCHOOL COMMITTEE :        SOUTHEASTERN (4 YEARS)",
+        "zone": "NORTON"
+    },
+    {
+        "candidate": "MINDY MARCIA KEMPNER, 100 Pond St., Sharon",
+        "position": "REGIONAL VOCATIONAL TECHNICAL SCHOOL COMMITTEE :        SOUTHEASTERN (4 YEARS)",
+        "zone": "NORTON"
+    },
+    {
+        "candidate": "MARCELLA A. BUSH, 90 Baldwin Hill Rd., Egremont",
+        "position": "REGIONAL SCHOOL COMMITTEE :        SOUTHERN BERKSHIRE (4 YEARS)",
+        "zone": "EGREMONT"
+    },
+    {
+        "candidate": "MARYELLEN A. BROWN, 200 Hupi Rd., Monterey",
+        "position": "REGIONAL SCHOOL COMMITTEE :        SOUTHERN BERKSHIRE (4 YEARS)",
+        "zone": "MONTEREY"
+    },
+    {
+        "candidate": "DAVID TRAVIS, 611 Brewer Hill Rd., New Marlborough",
+        "position": "REGIONAL SCHOOL COMMITTEE :        SOUTHERN BERKSHIRE (4 YEARS)",
+        "zone": "NEW MARLBOROUGH"
+    },
+    {
+        "candidate": "ARTHUR J. BATACCHI, JR., 221 Lime Kiln Rd., Sheffield",
+        "position": "REGIONAL SCHOOL COMMITTEE :        SOUTHERN BERKSHIRE (4 YEARS)",
+        "zone": "SHEFFIELD"
+    },
+    {
+        "candidate": "ROBERT W. LAW, 371 Rannapo Rd., Sheffield",
+        "position": "REGIONAL SCHOOL COMMITTEE :        SOUTHERN BERKSHIRE (4 YEARS)",
+        "zone": "SHEFFIELD"
+    },
+    {
+        "candidate": "STEPHEN M. LEINING, 1883 North Main Rd., Sheffield",
+        "position": "REGIONAL SCHOOL COMMITTEE :        SOUTHERN BERKSHIRE (4 YEARS)",
+        "zone": "SHEFFIELD"
+    },
+    {
+        "candidate": "MARY L. CROOK, 1 Carl Gardner Rd., Bourne",
+        "position": "REGIONAL SCHOOL COMMITTEE :        UPPER CAPE COD (4 YEARS)",
+        "zone": "BOURNE"
+    },
+    {
+        "candidate": "DANA R. MORTIMER, 16 Brady Dr., Falmouth",
+        "position": "REGIONAL SCHOOL COMMITTEE :        UPPER CAPE COD (4 YEARS)",
+        "zone": "FALMOUTH"
+    },
+    {
+        "candidate": "MARYANN SMITH, 217 Acapesket Rd., Falmouth",
+        "position": "REGIONAL SCHOOL COMMITTEE :        UPPER CAPE COD (4 YEARS)",
+        "zone": "FALMOUTH"
+    },
+    {
+        "candidate": "ELIZABETH MAGAURAN, 66 Main St., Marion",
+        "position": "REGIONAL SCHOOL COMMITTEE :        UPPER CAPE COD (4 YEARS)",
+        "zone": "MARION"
+    },
+    {
+        "candidate": "SANDWICH",
+        "position": "REGIONAL SCHOOL COMMITTEE :        UPPER CAPE COD (4 YEARS)",
+        "zone": "SANDWICH"
+    },
+    {
+        "candidate": "STEVEN L. CHALKE, 7 Windsor Rd., Sandwich",
+        "position": "REGIONAL SCHOOL COMMITTEE :        UPPER CAPE COD (4 YEARS)",
+        "zone": "SANDWICH"
+    },
+    {
+        "candidate": "ROBERT FICHTENMAYER, 6 Mya\u2019s Ct., Wareham",
+        "position": "REGIONAL SCHOOL COMMITTEE :        UPPER CAPE COD (4 YEARS)",
+        "zone": "WAREHAM"
+    },
+    {
+        "candidate": "",
+        "position": "REGIONAL SCHOOL COMMITTEE :        UPPER CAPE COD (4 YEARS)",
+        "zone": "\u00a0"
+    },
+    {
+        "candidate": "",
+        "position": "REGIONAL SCHOOL COMMITTEE :        UPPER CAPE COD (4 YEARS)",
+        "zone": "\u00a0"
+    },
+    {
+        "candidate": "",
+        "position": "REGIONAL SCHOOL COMMITTEE :        UPPER CAPE COD (4 YEARS)",
+        "zone": "\u00a0"
+    },
+    {
+        "candidate": "",
+        "position": "REGIONAL SCHOOL COMMITTEE :        UPPER CAPE COD (4 YEARS)",
+        "zone": "\u00a0"
+    }
+]
