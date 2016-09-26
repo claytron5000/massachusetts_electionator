@@ -1,0 +1,2810 @@
+[
+ {
+   "Municipality": "Abington",
+   "Type[1]": "Town",
+   "County[2]": "Plymouth",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "15,985",
+   "Year\n established[3]": "1712"
+ },
+ {
+   "Municipality": "Acton",
+   "Type[1]": "Town",
+   "County[2]": "Middlesex",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "21,924",
+   "Year\n established[3]": "1735"
+ },
+ {
+   "Municipality": "Acushnet",
+   "Type[1]": "Town",
+   "County[2]": "Bristol",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "10,303",
+   "Year\n established[3]": "1860"
+ },
+ {
+   "Municipality": "Adams",
+   "Type[1]": "Town",
+   "County[2]": "Berkshire",
+   "Form of government[1]": "Representative town meeting",
+   "Population\n (2010)[2]": "8,485",
+   "Year\n established[3]": "1778"
+ },
+ {
+   "Municipality": "Agawam",
+   "Type[1]": "City[4]",
+   "County[2]": "Hampden",
+   "Form of government[1]": "Mayor-council",
+   "Population\n (2010)[2]": "28,438",
+   "Year\n established[3]": "1855"
+ },
+ {
+   "Municipality": "Alford",
+   "Type[1]": "Town",
+   "County[2]": "Berkshire",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "494",
+   "Year\n established[3]": "1773"
+ },
+ {
+   "Municipality": "Amesbury",
+   "Type[1]": "City",
+   "County[2]": "Essex",
+   "Form of government[1]": "Mayor-council",
+   "Population\n (2010)[2]": "16,283",
+   "Year\n established[3]": "1668"
+ },
+ {
+   "Municipality": "Amherst",
+   "Type[1]": "Town",
+   "County[2]": "Hampshire",
+   "Form of government[1]": "Representative town meeting",
+   "Population\n (2010)[2]": "37,819",
+   "Year\n established[3]": "1775"
+ },
+ {
+   "Municipality": "Andover",
+   "Type[1]": "Town",
+   "County[2]": "Essex",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "33,201",
+   "Year\n established[3]": "1646"
+ },
+ {
+   "Municipality": "Aquinnah",
+   "Type[1]": "Town",
+   "County[2]": "Dukes",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "311",
+   "Year\n established[3]": "1870"
+ },
+ {
+   "Municipality": "Arlington",
+   "Type[1]": "Town",
+   "County[2]": "Middlesex",
+   "Form of government[1]": "Representative town meeting",
+   "Population\n (2010)[2]": "42,844",
+   "Year\n established[3]": "1807"
+ },
+ {
+   "Municipality": "Ashburnham",
+   "Type[1]": "Town",
+   "County[2]": "Worcester",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "6,081",
+   "Year\n established[3]": "1765"
+ },
+ {
+   "Municipality": "Ashby",
+   "Type[1]": "Town",
+   "County[2]": "Middlesex",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "3,074",
+   "Year\n established[3]": "1767"
+ },
+ {
+   "Municipality": "Ashfield",
+   "Type[1]": "Town",
+   "County[2]": "Franklin",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "1,737",
+   "Year\n established[3]": "1765"
+ },
+ {
+   "Municipality": "Ashland",
+   "Type[1]": "Town",
+   "County[2]": "Middlesex",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "16,593",
+   "Year\n established[3]": "1846"
+ },
+ {
+   "Municipality": "Athol",
+   "Type[1]": "Town",
+   "County[2]": "Worcester",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "11,584",
+   "Year\n established[3]": "1762"
+ },
+ {
+   "Municipality": "Attleboro",
+   "Type[1]": "City",
+   "County[2]": "Bristol",
+   "Form of government[1]": "Mayor-council",
+   "Population\n (2010)[2]": "43,593",
+   "Year\n established[3]": "1694"
+ },
+ {
+   "Municipality": "Auburn",
+   "Type[1]": "Town",
+   "County[2]": "Worcester",
+   "Form of government[1]": "Representative town meeting",
+   "Population\n (2010)[2]": "16,188",
+   "Year\n established[3]": "1778"
+ },
+ {
+   "Municipality": "Avon",
+   "Type[1]": "Town",
+   "County[2]": "Norfolk",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "4,356",
+   "Year\n established[3]": "1888"
+ },
+ {
+   "Municipality": "Ayer",
+   "Type[1]": "Town",
+   "County[2]": "Middlesex",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "7,427",
+   "Year\n established[3]": "1871"
+ },
+ {
+   "Municipality": "Barnstable",
+   "Type[1]": "City[4]",
+   "County[2]": "Barnstable",
+   "Form of government[1]": "Council-manager",
+   "Population\n (2010)[2]": "45,193",
+   "Year\n established[3]": "1639"
+ },
+ {
+   "Municipality": "Barre",
+   "Type[1]": "Town",
+   "County[2]": "Worcester",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "5,398",
+   "Year\n established[3]": "1774"
+ },
+ {
+   "Municipality": "Becket",
+   "Type[1]": "Town",
+   "County[2]": "Berkshire",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "1,779",
+   "Year\n established[3]": "1765"
+ },
+ {
+   "Municipality": "Bedford",
+   "Type[1]": "Town",
+   "County[2]": "Middlesex",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "13,320",
+   "Year\n established[3]": "1729"
+ },
+ {
+   "Municipality": "Belchertown",
+   "Type[1]": "Town",
+   "County[2]": "Hampshire",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "14,649",
+   "Year\n established[3]": "1761"
+ },
+ {
+   "Municipality": "Bellingham",
+   "Type[1]": "Town",
+   "County[2]": "Norfolk",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "16,332",
+   "Year\n established[3]": "1719"
+ },
+ {
+   "Municipality": "Belmont",
+   "Type[1]": "Town",
+   "County[2]": "Middlesex",
+   "Form of government[1]": "Representative town meeting",
+   "Population\n (2010)[2]": "24,729",
+   "Year\n established[3]": "1859"
+ },
+ {
+   "Municipality": "Berkley",
+   "Type[1]": "Town",
+   "County[2]": "Bristol",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "6,411",
+   "Year\n established[3]": "1735"
+ },
+ {
+   "Municipality": "Berlin",
+   "Type[1]": "Town",
+   "County[2]": "Worcester",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "2,866",
+   "Year\n established[3]": "1812"
+ },
+ {
+   "Municipality": "Bernardston",
+   "Type[1]": "Town",
+   "County[2]": "Franklin",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "2,129",
+   "Year\n established[3]": "1762"
+ },
+ {
+   "Municipality": "Beverly",
+   "Type[1]": "City",
+   "County[2]": "Essex",
+   "Form of government[1]": "Mayor-council",
+   "Population\n (2010)[2]": "39,502",
+   "Year\n established[3]": "1668"
+ },
+ {
+   "Municipality": "Billerica",
+   "Type[1]": "Town",
+   "County[2]": "Middlesex",
+   "Form of government[1]": "Representative town meeting",
+   "Population\n (2010)[2]": "40,243",
+   "Year\n established[3]": "1655"
+ },
+ {
+   "Municipality": "Blackstone",
+   "Type[1]": "Town",
+   "County[2]": "Worcester",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "9,026",
+   "Year\n established[3]": "1845"
+ },
+ {
+   "Municipality": "Blandford",
+   "Type[1]": "Town",
+   "County[2]": "Hampden",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "1,233",
+   "Year\n established[3]": "1741"
+ },
+ {
+   "Municipality": "Bolton",
+   "Type[1]": "Town",
+   "County[2]": "Worcester",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "4,897",
+   "Year\n established[3]": "1738"
+ },
+ {
+   "Municipality": "Boston",
+   "Type[1]": "City",
+   "County[2]": "Suffolk",
+   "Form of government[1]": "Mayor-council",
+   "Population\n (2010)[2]": "617,660",
+   "Year\n established[3]": "1630"
+ },
+ {
+   "Municipality": "Bourne",
+   "Type[1]": "Town",
+   "County[2]": "Barnstable",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "19,754",
+   "Year\n established[3]": "1884"
+ },
+ {
+   "Municipality": "Boxborough",
+   "Type[1]": "Town",
+   "County[2]": "Middlesex",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "4,996",
+   "Year\n established[3]": "1835"
+ },
+ {
+   "Municipality": "Boxford",
+   "Type[1]": "Town",
+   "County[2]": "Essex",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "7,965",
+   "Year\n established[3]": "1685"
+ },
+ {
+   "Municipality": "Boylston",
+   "Type[1]": "Town",
+   "County[2]": "Worcester",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "4,355",
+   "Year\n established[3]": "1785"
+ },
+ {
+   "Municipality": "Braintree",
+   "Type[1]": "City[4]",
+   "County[2]": "Norfolk",
+   "Form of government[1]": "Mayor-council",
+   "Population\n (2010)[2]": "35,744",
+   "Year\n established[3]": "1640"
+ },
+ {
+   "Municipality": "Brewster",
+   "Type[1]": "Town",
+   "County[2]": "Barnstable",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "9,820",
+   "Year\n established[3]": "1803"
+ },
+ {
+   "Municipality": "Bridgewater",
+   "Type[1]": "City[4]",
+   "County[2]": "Plymouth",
+   "Form of government[1]": "Council-manager",
+   "Population\n (2010)[2]": "26,563",
+   "Year\n established[3]": "1656"
+ },
+ {
+   "Municipality": "Brimfield",
+   "Type[1]": "Town",
+   "County[2]": "Hampden",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "3,609",
+   "Year\n established[3]": "1731"
+ },
+ {
+   "Municipality": "Brockton",
+   "Type[1]": "City",
+   "County[2]": "Plymouth",
+   "Form of government[1]": "Mayor-council",
+   "Population\n (2010)[2]": "93,810",
+   "Year\n established[3]": "1821"
+ },
+ {
+   "Municipality": "Brookfield",
+   "Type[1]": "Town",
+   "County[2]": "Worcester",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "3,390",
+   "Year\n established[3]": "1718"
+ },
+ {
+   "Municipality": "Brookline",
+   "Type[1]": "Town",
+   "County[2]": "Norfolk",
+   "Form of government[1]": "Representative town meeting",
+   "Population\n (2010)[2]": "58,732",
+   "Year\n established[3]": "1705"
+ },
+ {
+   "Municipality": "Buckland",
+   "Type[1]": "Town",
+   "County[2]": "Franklin",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "1,902",
+   "Year\n established[3]": "1779"
+ },
+ {
+   "Municipality": "Burlington",
+   "Type[1]": "Town",
+   "County[2]": "Middlesex",
+   "Form of government[1]": "Representative town meeting",
+   "Population\n (2010)[2]": "24,498",
+   "Year\n established[3]": "1799"
+ },
+ {
+   "Municipality": "Cambridge",
+   "Type[1]": "City",
+   "County[2]": "Middlesex",
+   "Form of government[1]": "Mayor-manager-council",
+   "Population\n (2010)[2]": "105,162",
+   "Year\n established[3]": "1636"
+ },
+ {
+   "Municipality": "Canton",
+   "Type[1]": "Town",
+   "County[2]": "Norfolk",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "21,561",
+   "Year\n established[3]": "1797"
+ },
+ {
+   "Municipality": "Carlisle",
+   "Type[1]": "Town",
+   "County[2]": "Middlesex",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "4,852",
+   "Year\n established[3]": "1780"
+ },
+ {
+   "Municipality": "Carver",
+   "Type[1]": "Town",
+   "County[2]": "Plymouth",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "11,509",
+   "Year\n established[3]": "1790"
+ },
+ {
+   "Municipality": "Charlemont",
+   "Type[1]": "Town",
+   "County[2]": "Franklin",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "1,266",
+   "Year\n established[3]": "1765"
+ },
+ {
+   "Municipality": "Charlton",
+   "Type[1]": "Town",
+   "County[2]": "Worcester",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "12,981",
+   "Year\n established[3]": "1755[5]"
+ },
+ {
+   "Municipality": "Chatham",
+   "Type[1]": "Town",
+   "County[2]": "Barnstable",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "6,125",
+   "Year\n established[3]": "1712"
+ },
+ {
+   "Municipality": "Chelmsford",
+   "Type[1]": "Town",
+   "County[2]": "Middlesex",
+   "Form of government[1]": "Representative town meeting",
+   "Population\n (2010)[2]": "33,802",
+   "Year\n established[3]": "1655"
+ },
+ {
+   "Municipality": "Chelsea",
+   "Type[1]": "City",
+   "County[2]": "Suffolk",
+   "Form of government[1]": "Council-manager",
+   "Population\n (2010)[2]": "35,177",
+   "Year\n established[3]": "1739"
+ },
+ {
+   "Municipality": "Cheshire",
+   "Type[1]": "Town",
+   "County[2]": "Berkshire",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "3,235",
+   "Year\n established[3]": "1793"
+ },
+ {
+   "Municipality": "Chester",
+   "Type[1]": "Town",
+   "County[2]": "Hampden",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "1,337",
+   "Year\n established[3]": "1765"
+ },
+ {
+   "Municipality": "Chesterfield",
+   "Type[1]": "Town",
+   "County[2]": "Hampshire",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "1,222",
+   "Year\n established[3]": "1762"
+ },
+ {
+   "Municipality": "Chicopee",
+   "Type[1]": "City",
+   "County[2]": "Hampden",
+   "Form of government[1]": "Mayor-aldermen",
+   "Population\n (2010)[2]": "55,298",
+   "Year\n established[3]": "1848"
+ },
+ {
+   "Municipality": "Chilmark",
+   "Type[1]": "Town",
+   "County[2]": "Dukes",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "866",
+   "Year\n established[3]": "1714"
+ },
+ {
+   "Municipality": "Clarksburg",
+   "Type[1]": "Town",
+   "County[2]": "Berkshire",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "1,702",
+   "Year\n established[3]": "1798"
+ },
+ {
+   "Municipality": "Clinton",
+   "Type[1]": "Town",
+   "County[2]": "Worcester",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "13,606",
+   "Year\n established[3]": "1850"
+ },
+ {
+   "Municipality": "Cohasset",
+   "Type[1]": "Town",
+   "County[2]": "Norfolk",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "7,542",
+   "Year\n established[3]": "1775"
+ },
+ {
+   "Municipality": "Colrain",
+   "Type[1]": "Town",
+   "County[2]": "Franklin",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "1,671",
+   "Year\n established[3]": "1761"
+ },
+ {
+   "Municipality": "Concord",
+   "Type[1]": "Town",
+   "County[2]": "Middlesex",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "17,668",
+   "Year\n established[3]": "1635"
+ },
+ {
+   "Municipality": "Conway",
+   "Type[1]": "Town",
+   "County[2]": "Franklin",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "1,897",
+   "Year\n established[3]": "1775"
+ },
+ {
+   "Municipality": "Cummington",
+   "Type[1]": "Town",
+   "County[2]": "Hampshire",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "872",
+   "Year\n established[3]": "1779"
+ },
+ {
+   "Municipality": "Dalton",
+   "Type[1]": "Town",
+   "County[2]": "Berkshire",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "6,756",
+   "Year\n established[3]": "1784"
+ },
+ {
+   "Municipality": "Danvers",
+   "Type[1]": "Town",
+   "County[2]": "Essex",
+   "Form of government[1]": "Representative town meeting",
+   "Population\n (2010)[2]": "26,493",
+   "Year\n established[3]": "1775"
+ },
+ {
+   "Municipality": "Dartmouth",
+   "Type[1]": "Town",
+   "County[2]": "Bristol",
+   "Form of government[1]": "Representative town meeting",
+   "Population\n (2010)[2]": "34,032",
+   "Year\n established[3]": "1664"
+ },
+ {
+   "Municipality": "Dedham",
+   "Type[1]": "Town",
+   "County[2]": "Norfolk",
+   "Form of government[1]": "Representative town meeting",
+   "Population\n (2010)[2]": "24,729",
+   "Year\n established[3]": "1636"
+ },
+ {
+   "Municipality": "Deerfield",
+   "Type[1]": "Town",
+   "County[2]": "Franklin",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "5,125",
+   "Year\n established[3]": "1677"
+ },
+ {
+   "Municipality": "Dennis",
+   "Type[1]": "Town",
+   "County[2]": "Barnstable",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "14,207",
+   "Year\n established[3]": "1793"
+ },
+ {
+   "Municipality": "Dighton",
+   "Type[1]": "Town",
+   "County[2]": "Bristol",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "7,086",
+   "Year\n established[3]": "1712"
+ },
+ {
+   "Municipality": "Douglas",
+   "Type[1]": "Town",
+   "County[2]": "Worcester",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "8,471",
+   "Year\n established[3]": "1775"
+ },
+ {
+   "Municipality": "Dover",
+   "Type[1]": "Town",
+   "County[2]": "Norfolk",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "5,589",
+   "Year\n established[3]": "1836"
+ },
+ {
+   "Municipality": "Dracut",
+   "Type[1]": "Town",
+   "County[2]": "Middlesex",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "29,457",
+   "Year\n established[3]": "1701"
+ },
+ {
+   "Municipality": "Dudley",
+   "Type[1]": "Town",
+   "County[2]": "Worcester",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "11,390",
+   "Year\n established[3]": "1732"
+ },
+ {
+   "Municipality": "Dunstable",
+   "Type[1]": "Town",
+   "County[2]": "Middlesex",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "3,179",
+   "Year\n established[3]": "1673"
+ },
+ {
+   "Municipality": "Duxbury",
+   "Type[1]": "Town",
+   "County[2]": "Plymouth",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "15,059",
+   "Year\n established[3]": "1637"
+ },
+ {
+   "Municipality": "East Bridgewater",
+   "Type[1]": "Town",
+   "County[2]": "Plymouth",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "13,794",
+   "Year\n established[3]": "1823"
+ },
+ {
+   "Municipality": "East Brookfield",
+   "Type[1]": "Town",
+   "County[2]": "Worcester",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "2,183",
+   "Year\n established[3]": "1920"
+ },
+ {
+   "Municipality": "East Longmeadow",
+   "Type[1]": "Town",
+   "County[2]": "Hampden",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "15,720",
+   "Year\n established[3]": "1894"
+ },
+ {
+   "Municipality": "Eastham",
+   "Type[1]": "Town",
+   "County[2]": "Barnstable",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "4,956",
+   "Year\n established[3]": "1646"
+ },
+ {
+   "Municipality": "Easthampton",
+   "Type[1]": "City",
+   "County[2]": "Hampshire",
+   "Form of government[1]": "Mayor-council",
+   "Population\n (2010)[2]": "16,053",
+   "Year\n established[3]": "1809"
+ },
+ {
+   "Municipality": "Easton",
+   "Type[1]": "Town",
+   "County[2]": "Bristol",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "23,112",
+   "Year\n established[3]": "1725"
+ },
+ {
+   "Municipality": "Edgartown",
+   "Type[1]": "Town",
+   "County[2]": "Dukes",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "4,067",
+   "Year\n established[3]": "1671"
+ },
+ {
+   "Municipality": "Egremont",
+   "Type[1]": "Town",
+   "County[2]": "Berkshire",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "1,225",
+   "Year\n established[3]": "1775"
+ },
+ {
+   "Municipality": "Erving",
+   "Type[1]": "Town",
+   "County[2]": "Franklin",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "1,800",
+   "Year\n established[3]": "1838"
+ },
+ {
+   "Municipality": "Essex",
+   "Type[1]": "Town",
+   "County[2]": "Essex",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "3,504",
+   "Year\n established[3]": "1819"
+ },
+ {
+   "Municipality": "Everett",
+   "Type[1]": "City",
+   "County[2]": "Middlesex",
+   "Form of government[1]": "Mayor-council-aldermen",
+   "Population\n (2010)[2]": "41,667",
+   "Year\n established[3]": "1870"
+ },
+ {
+   "Municipality": "Fairhaven",
+   "Type[1]": "Town",
+   "County[2]": "Bristol",
+   "Form of government[1]": "Representative town meeting",
+   "Population\n (2010)[2]": "15,873",
+   "Year\n established[3]": "1812"
+ },
+ {
+   "Municipality": "Fall River",
+   "Type[1]": "City",
+   "County[2]": "Bristol",
+   "Form of government[1]": "Mayor-council",
+   "Population\n (2010)[2]": "88,857",
+   "Year\n established[3]": "1803"
+ },
+ {
+   "Municipality": "Falmouth",
+   "Type[1]": "Town",
+   "County[2]": "Barnstable",
+   "Form of government[1]": "Representative town meeting",
+   "Population\n (2010)[2]": "31,531",
+   "Year\n established[3]": "1686"
+ },
+ {
+   "Municipality": "Fitchburg",
+   "Type[1]": "City",
+   "County[2]": "Worcester",
+   "Form of government[1]": "Mayor-council",
+   "Population\n (2010)[2]": "40,318",
+   "Year\n established[3]": "1764"
+ },
+ {
+   "Municipality": "Florida",
+   "Type[1]": "Town",
+   "County[2]": "Berkshire",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "752",
+   "Year\n established[3]": "1805"
+ },
+ {
+   "Municipality": "Foxborough",
+   "Type[1]": "Town",
+   "County[2]": "Norfolk",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "16,865",
+   "Year\n established[3]": "1778"
+ },
+ {
+   "Municipality": "Framingham",
+   "Type[1]": "Town",
+   "County[2]": "Middlesex",
+   "Form of government[1]": "Representative town meeting",
+   "Population\n (2010)[2]": "68,318",
+   "Year\n established[3]": "1700"
+ },
+ {
+   "Municipality": "Franklin",
+   "Type[1]": "City[4]",
+   "County[2]": "Norfolk",
+   "Form of government[1]": "Council-administrator",
+   "Population\n (2010)[2]": "31,635",
+   "Year\n established[3]": "1778"
+ },
+ {
+   "Municipality": "Freetown",
+   "Type[1]": "Town",
+   "County[2]": "Bristol",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "8,870",
+   "Year\n established[3]": "1683"
+ },
+ {
+   "Municipality": "Gardner",
+   "Type[1]": "City",
+   "County[2]": "Worcester",
+   "Form of government[1]": "Mayor-council",
+   "Population\n (2010)[2]": "20,228",
+   "Year\n established[3]": "1785"
+ },
+ {
+   "Municipality": "Georgetown",
+   "Type[1]": "Town",
+   "County[2]": "Essex",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "8,183",
+   "Year\n established[3]": "1838"
+ },
+ {
+   "Municipality": "Gill",
+   "Type[1]": "Town",
+   "County[2]": "Franklin",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "1,500",
+   "Year\n established[3]": "1793"
+ },
+ {
+   "Municipality": "Gloucester",
+   "Type[1]": "City",
+   "County[2]": "Essex",
+   "Form of government[1]": "Mayor-council",
+   "Population\n (2010)[2]": "28,789",
+   "Year\n established[3]": "1623"
+ },
+ {
+   "Municipality": "Goshen",
+   "Type[1]": "Town",
+   "County[2]": "Hampshire",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "1,054",
+   "Year\n established[3]": "1781"
+ },
+ {
+   "Municipality": "Gosnold",
+   "Type[1]": "Town",
+   "County[2]": "Dukes",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "75",
+   "Year\n established[3]": "1864"
+ },
+ {
+   "Municipality": "Grafton",
+   "Type[1]": "Town",
+   "County[2]": "Worcester",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "17,765",
+   "Year\n established[3]": "1735"
+ },
+ {
+   "Municipality": "Granby",
+   "Type[1]": "Town",
+   "County[2]": "Hampshire",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "6,240",
+   "Year\n established[3]": "1768"
+ },
+ {
+   "Municipality": "Granville",
+   "Type[1]": "Town",
+   "County[2]": "Hampden",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "1,566",
+   "Year\n established[3]": "1775"
+ },
+ {
+   "Municipality": "Great Barrington",
+   "Type[1]": "Town",
+   "County[2]": "Berkshire",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "7,104",
+   "Year\n established[3]": "1761"
+ },
+ {
+   "Municipality": "Greenfield",
+   "Type[1]": "City[4]",
+   "County[2]": "Franklin",
+   "Form of government[1]": "Mayor-council",
+   "Population\n (2010)[2]": "17,456",
+   "Year\n established[3]": "1775"
+ },
+ {
+   "Municipality": "Groton",
+   "Type[1]": "Town",
+   "County[2]": "Middlesex",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "10,646",
+   "Year\n established[3]": "1655"
+ },
+ {
+   "Municipality": "Groveland",
+   "Type[1]": "Town",
+   "County[2]": "Essex",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "6,459",
+   "Year\n established[3]": "1850"
+ },
+ {
+   "Municipality": "Hadley",
+   "Type[1]": "Town",
+   "County[2]": "Hampshire",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "5,250",
+   "Year\n established[3]": "1661"
+ },
+ {
+   "Municipality": "Halifax",
+   "Type[1]": "Town",
+   "County[2]": "Plymouth",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "7,518",
+   "Year\n established[3]": "1734"
+ },
+ {
+   "Municipality": "Hamilton",
+   "Type[1]": "Town",
+   "County[2]": "Essex",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "7,764",
+   "Year\n established[3]": "1793"
+ },
+ {
+   "Municipality": "Hampden",
+   "Type[1]": "Town",
+   "County[2]": "Hampden",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "5,139",
+   "Year\n established[3]": "1878"
+ },
+ {
+   "Municipality": "Hancock",
+   "Type[1]": "Town",
+   "County[2]": "Berkshire",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "717",
+   "Year\n established[3]": "1776"
+ },
+ {
+   "Municipality": "Hanover",
+   "Type[1]": "Town",
+   "County[2]": "Plymouth",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "13,879",
+   "Year\n established[3]": "1727"
+ },
+ {
+   "Municipality": "Hanson",
+   "Type[1]": "Town",
+   "County[2]": "Plymouth",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "10,209",
+   "Year\n established[3]": "1820"
+ },
+ {
+   "Municipality": "Hardwick",
+   "Type[1]": "Town",
+   "County[2]": "Worcester",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "2,990",
+   "Year\n established[3]": "1739"
+ },
+ {
+   "Municipality": "Harvard",
+   "Type[1]": "Town",
+   "County[2]": "Worcester",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "6,520",
+   "Year\n established[3]": "1732"
+ },
+ {
+   "Municipality": "Harwich",
+   "Type[1]": "Town",
+   "County[2]": "Barnstable",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "12,243",
+   "Year\n established[3]": "1694"
+ },
+ {
+   "Municipality": "Hatfield",
+   "Type[1]": "Town",
+   "County[2]": "Hampshire",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "3,279",
+   "Year\n established[3]": "1670"
+ },
+ {
+   "Municipality": "Haverhill",
+   "Type[1]": "City",
+   "County[2]": "Essex",
+   "Form of government[1]": "Mayor-council",
+   "Population\n (2010)[2]": "60,879",
+   "Year\n established[3]": "1641"
+ },
+ {
+   "Municipality": "Hawley",
+   "Type[1]": "Town",
+   "County[2]": "Franklin",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "337",
+   "Year\n established[3]": "1792"
+ },
+ {
+   "Municipality": "Heath",
+   "Type[1]": "Town",
+   "County[2]": "Franklin",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "706",
+   "Year\n established[3]": "1785"
+ },
+ {
+   "Municipality": "Hingham",
+   "Type[1]": "Town",
+   "County[2]": "Plymouth",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "22,157",
+   "Year\n established[3]": "1635"
+ },
+ {
+   "Municipality": "Hinsdale",
+   "Type[1]": "Town",
+   "County[2]": "Berkshire",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "2,032",
+   "Year\n established[3]": "1804"
+ },
+ {
+   "Municipality": "Holbrook",
+   "Type[1]": "Town",
+   "County[2]": "Norfolk",
+   "Form of government[1]": "Representative town meeting",
+   "Population\n (2010)[2]": "10,791",
+   "Year\n established[3]": "1872"
+ },
+ {
+   "Municipality": "Holden",
+   "Type[1]": "Town",
+   "County[2]": "Worcester",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "17,346",
+   "Year\n established[3]": "1741"
+ },
+ {
+   "Municipality": "Holland",
+   "Type[1]": "Town",
+   "County[2]": "Hampden",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "2,481",
+   "Year\n established[3]": "1835"
+ },
+ {
+   "Municipality": "Holliston",
+   "Type[1]": "Town",
+   "County[2]": "Middlesex",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "13,547",
+   "Year\n established[3]": "1724"
+ },
+ {
+   "Municipality": "Holyoke",
+   "Type[1]": "City",
+   "County[2]": "Hampden",
+   "Form of government[1]": "Mayor-council",
+   "Population\n (2010)[2]": "39,880",
+   "Year\n established[3]": "1850"
+ },
+ {
+   "Municipality": "Hopedale",
+   "Type[1]": "Town",
+   "County[2]": "Worcester",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "5,911",
+   "Year\n established[3]": "1886"
+ },
+ {
+   "Municipality": "Hopkinton",
+   "Type[1]": "Town",
+   "County[2]": "Middlesex",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "14,925",
+   "Year\n established[3]": "1715"
+ },
+ {
+   "Municipality": "Hubbardston",
+   "Type[1]": "Town",
+   "County[2]": "Worcester",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "4,382",
+   "Year\n established[3]": "1775"
+ },
+ {
+   "Municipality": "Hudson",
+   "Type[1]": "Town",
+   "County[2]": "Middlesex",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "19,063",
+   "Year\n established[3]": "1866"
+ },
+ {
+   "Municipality": "Hull",
+   "Type[1]": "Town",
+   "County[2]": "Plymouth",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "10,293",
+   "Year\n established[3]": "1644"
+ },
+ {
+   "Municipality": "Huntington",
+   "Type[1]": "Town",
+   "County[2]": "Hampshire",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "2,180",
+   "Year\n established[3]": "1775"
+ },
+ {
+   "Municipality": "Ipswich",
+   "Type[1]": "Town",
+   "County[2]": "Essex",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "13,175",
+   "Year\n established[3]": "1634"
+ },
+ {
+   "Municipality": "Kingston",
+   "Type[1]": "Town",
+   "County[2]": "Plymouth",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "12,629",
+   "Year\n established[3]": "1726"
+ },
+ {
+   "Municipality": "Lakeville",
+   "Type[1]": "Town",
+   "County[2]": "Plymouth",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "10,602",
+   "Year\n established[3]": "1853"
+ },
+ {
+   "Municipality": "Lancaster",
+   "Type[1]": "Town",
+   "County[2]": "Worcester",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "8,055",
+   "Year\n established[3]": "1653"
+ },
+ {
+   "Municipality": "Lanesborough",
+   "Type[1]": "Town",
+   "County[2]": "Berkshire",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "3,091",
+   "Year\n established[3]": "1765"
+ },
+ {
+   "Municipality": "Lawrence",
+   "Type[1]": "City",
+   "County[2]": "Essex",
+   "Form of government[1]": "Mayor-council",
+   "Population\n (2010)[2]": "76,377",
+   "Year\n established[3]": "1847"
+ },
+ {
+   "Municipality": "Lee",
+   "Type[1]": "Town",
+   "County[2]": "Berkshire",
+   "Form of government[1]": "Representative town meeting",
+   "Population\n (2010)[2]": "5,943",
+   "Year\n established[3]": "1777"
+ },
+ {
+   "Municipality": "Leicester",
+   "Type[1]": "Town",
+   "County[2]": "Worcester",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "10,970",
+   "Year\n established[3]": "1714"
+ },
+ {
+   "Municipality": "Lenox",
+   "Type[1]": "Town",
+   "County[2]": "Berkshire",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "5,025",
+   "Year\n established[3]": "1775"
+ },
+ {
+   "Municipality": "Leominster",
+   "Type[1]": "City",
+   "County[2]": "Worcester",
+   "Form of government[1]": "Mayor-council",
+   "Population\n (2010)[2]": "40,759",
+   "Year\n established[3]": "1740"
+ },
+ {
+   "Municipality": "Leverett",
+   "Type[1]": "Town",
+   "County[2]": "Franklin",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "1,851",
+   "Year\n established[3]": "1774"
+ },
+ {
+   "Municipality": "Lexington",
+   "Type[1]": "Town",
+   "County[2]": "Middlesex",
+   "Form of government[1]": "Representative town meeting",
+   "Population\n (2010)[2]": "31,394",
+   "Year\n established[3]": "1713"
+ },
+ {
+   "Municipality": "Leyden",
+   "Type[1]": "Town",
+   "County[2]": "Franklin",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "711",
+   "Year\n established[3]": "1809"
+ },
+ {
+   "Municipality": "Lincoln",
+   "Type[1]": "Town",
+   "County[2]": "Middlesex",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "6,362",
+   "Year\n established[3]": "1754"
+ },
+ {
+   "Municipality": "Littleton",
+   "Type[1]": "Town",
+   "County[2]": "Middlesex",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "8,924",
+   "Year\n established[3]": "1715"
+ },
+ {
+   "Municipality": "Longmeadow",
+   "Type[1]": "Town",
+   "County[2]": "Hampden",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "15,784",
+   "Year\n established[3]": "1783"
+ },
+ {
+   "Municipality": "Lowell",
+   "Type[1]": "City",
+   "County[2]": "Middlesex",
+   "Form of government[1]": "Mayor-manager-council",
+   "Population\n (2010)[2]": "106,519",
+   "Year\n established[3]": "1826"
+ },
+ {
+   "Municipality": "Ludlow",
+   "Type[1]": "Town",
+   "County[2]": "Hampden",
+   "Form of government[1]": "Representative town meeting",
+   "Population\n (2010)[2]": "21,103",
+   "Year\n established[3]": "1775"
+ },
+ {
+   "Municipality": "Lunenburg",
+   "Type[1]": "Town",
+   "County[2]": "Worcester",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "10,086",
+   "Year\n established[3]": "1728"
+ },
+ {
+   "Municipality": "Lynn",
+   "Type[1]": "City",
+   "County[2]": "Essex",
+   "Form of government[1]": "Mayor-council",
+   "Population\n (2010)[2]": "90,329",
+   "Year\n established[3]": "1629"
+ },
+ {
+   "Municipality": "Lynnfield",
+   "Type[1]": "Town",
+   "County[2]": "Essex",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "11,596",
+   "Year\n established[3]": "1814"
+ },
+ {
+   "Municipality": "Malden",
+   "Type[1]": "City",
+   "County[2]": "Middlesex",
+   "Form of government[1]": "Mayor-council",
+   "Population\n (2010)[2]": "59,450",
+   "Year\n established[3]": "1649"
+ },
+ {
+   "Municipality": "Manchester-by-the-Sea",
+   "Type[1]": "Town",
+   "County[2]": "Essex",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "5,136",
+   "Year\n established[3]": "1645"
+ },
+ {
+   "Municipality": "Mansfield",
+   "Type[1]": "Town",
+   "County[2]": "Bristol",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "23,184",
+   "Year\n established[3]": "1775"
+ },
+ {
+   "Municipality": "Marblehead",
+   "Type[1]": "Town",
+   "County[2]": "Essex",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "19,808",
+   "Year\n established[3]": "1649"
+ },
+ {
+   "Municipality": "Marion",
+   "Type[1]": "Town",
+   "County[2]": "Plymouth",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "4,907",
+   "Year\n established[3]": "1852"
+ },
+ {
+   "Municipality": "Marlborough",
+   "Type[1]": "City",
+   "County[2]": "Middlesex",
+   "Form of government[1]": "Mayor-council",
+   "Population\n (2010)[2]": "38,499",
+   "Year\n established[3]": "1660"
+ },
+ {
+   "Municipality": "Marshfield",
+   "Type[1]": "Town",
+   "County[2]": "Plymouth",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "25,132",
+   "Year\n established[3]": "1640"
+ },
+ {
+   "Municipality": "Mashpee",
+   "Type[1]": "Town",
+   "County[2]": "Barnstable",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "14,006",
+   "Year\n established[3]": "1870"
+ },
+ {
+   "Municipality": "Mattapoisett",
+   "Type[1]": "Town",
+   "County[2]": "Plymouth",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "6,045",
+   "Year\n established[3]": "1857"
+ },
+ {
+   "Municipality": "Maynard",
+   "Type[1]": "Town",
+   "County[2]": "Middlesex",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "10,106",
+   "Year\n established[3]": "1871"
+ },
+ {
+   "Municipality": "Medfield",
+   "Type[1]": "Town",
+   "County[2]": "Norfolk",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "12,024",
+   "Year\n established[3]": "1651"
+ },
+ {
+   "Municipality": "Medford",
+   "Type[1]": "City",
+   "County[2]": "Middlesex",
+   "Form of government[1]": "Mayor-council",
+   "Population\n (2010)[2]": "56,173",
+   "Year\n established[3]": "1630"
+ },
+ {
+   "Municipality": "Medway",
+   "Type[1]": "Town",
+   "County[2]": "Norfolk",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "12,752",
+   "Year\n established[3]": "1713"
+ },
+ {
+   "Municipality": "Melrose",
+   "Type[1]": "City",
+   "County[2]": "Middlesex",
+   "Form of government[1]": "Mayor-aldermen",
+   "Population\n (2010)[2]": "26,983",
+   "Year\n established[3]": "1850"
+ },
+ {
+   "Municipality": "Mendon",
+   "Type[1]": "Town",
+   "County[2]": "Worcester",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "5,839",
+   "Year\n established[3]": "1667"
+ },
+ {
+   "Municipality": "Merrimac",
+   "Type[1]": "Town",
+   "County[2]": "Essex",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "6,338",
+   "Year\n established[3]": "1876"
+ },
+ {
+   "Municipality": "Methuen",
+   "Type[1]": "City[4]",
+   "County[2]": "Essex",
+   "Form of government[1]": "Mayor-council",
+   "Population\n (2010)[2]": "47,255",
+   "Year\n established[3]": "1725"
+ },
+ {
+   "Municipality": "Middleborough",
+   "Type[1]": "Town",
+   "County[2]": "Plymouth",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "23,116",
+   "Year\n established[3]": "1669"
+ },
+ {
+   "Municipality": "Middlefield",
+   "Type[1]": "Town",
+   "County[2]": "Hampshire",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "521",
+   "Year\n established[3]": "1783"
+ },
+ {
+   "Municipality": "Middleton",
+   "Type[1]": "Town",
+   "County[2]": "Essex",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "8,987",
+   "Year\n established[3]": "1728"
+ },
+ {
+   "Municipality": "Milford",
+   "Type[1]": "Town",
+   "County[2]": "Worcester",
+   "Form of government[1]": "Representative town meeting",
+   "Population\n (2010)[2]": "27,999",
+   "Year\n established[3]": "1780"
+ },
+ {
+   "Municipality": "Millbury",
+   "Type[1]": "Town",
+   "County[2]": "Worcester",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "13,261",
+   "Year\n established[3]": "1813"
+ },
+ {
+   "Municipality": "Millis",
+   "Type[1]": "Town",
+   "County[2]": "Norfolk",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "7,891",
+   "Year\n established[3]": "1885"
+ },
+ {
+   "Municipality": "Millville",
+   "Type[1]": "Town",
+   "County[2]": "Worcester",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "3,190",
+   "Year\n established[3]": "1916"
+ },
+ {
+   "Municipality": "Milton",
+   "Type[1]": "Town",
+   "County[2]": "Norfolk",
+   "Form of government[1]": "Representative town meeting",
+   "Population\n (2010)[2]": "27,003",
+   "Year\n established[3]": "1662"
+ },
+ {
+   "Municipality": "Monroe",
+   "Type[1]": "Town",
+   "County[2]": "Franklin",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "121",
+   "Year\n established[3]": "1822"
+ },
+ {
+   "Municipality": "Monson",
+   "Type[1]": "Town",
+   "County[2]": "Hampden",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "8,560",
+   "Year\n established[3]": "1775"
+ },
+ {
+   "Municipality": "Montague",
+   "Type[1]": "Town",
+   "County[2]": "Franklin",
+   "Form of government[1]": "Representative town meeting",
+   "Population\n (2010)[2]": "8,437",
+   "Year\n established[3]": "1775"
+ },
+ {
+   "Municipality": "Monterey",
+   "Type[1]": "Town",
+   "County[2]": "Berkshire",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "961",
+   "Year\n established[3]": "1847"
+ },
+ {
+   "Municipality": "Montgomery",
+   "Type[1]": "Town",
+   "County[2]": "Hampden",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "838",
+   "Year\n established[3]": "1780"
+ },
+ {
+   "Municipality": "Mount Washington",
+   "Type[1]": "Town",
+   "County[2]": "Berkshire",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "167",
+   "Year\n established[3]": "1779"
+ },
+ {
+   "Municipality": "Nahant",
+   "Type[1]": "Town",
+   "County[2]": "Essex",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "3,410",
+   "Year\n established[3]": "1853"
+ },
+ {
+   "Municipality": "Nantucket",
+   "Type[1]": "Town",
+   "County[2]": "Nantucket",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "10,172",
+   "Year\n established[3]": "1671"
+ },
+ {
+   "Municipality": "Natick",
+   "Type[1]": "Town",
+   "County[2]": "Middlesex",
+   "Form of government[1]": "Representative town meeting",
+   "Population\n (2010)[2]": "33,006",
+   "Year\n established[3]": "1781"
+ },
+ {
+   "Municipality": "Needham",
+   "Type[1]": "Town",
+   "County[2]": "Norfolk",
+   "Form of government[1]": "Representative town meeting",
+   "Population\n (2010)[2]": "28,886",
+   "Year\n established[3]": "1711"
+ },
+ {
+   "Municipality": "New Ashford",
+   "Type[1]": "Town",
+   "County[2]": "Berkshire",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "228",
+   "Year\n established[3]": "1835"
+ },
+ {
+   "Municipality": "New Bedford",
+   "Type[1]": "City",
+   "County[2]": "Bristol",
+   "Form of government[1]": "Mayor-council",
+   "Population\n (2010)[2]": "95,072",
+   "Year\n established[3]": "1787"
+ },
+ {
+   "Municipality": "New Braintree",
+   "Type[1]": "Town",
+   "County[2]": "Worcester",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "999",
+   "Year\n established[3]": "1775"
+ },
+ {
+   "Municipality": "New Marlborough",
+   "Type[1]": "Town",
+   "County[2]": "Berkshire",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "1,509",
+   "Year\n established[3]": "1775"
+ },
+ {
+   "Municipality": "New Salem",
+   "Type[1]": "Town",
+   "County[2]": "Franklin",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "990",
+   "Year\n established[3]": "1775"
+ },
+ {
+   "Municipality": "Newbury",
+   "Type[1]": "Town",
+   "County[2]": "Essex",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "6,666",
+   "Year\n established[3]": "1635"
+ },
+ {
+   "Municipality": "Newburyport",
+   "Type[1]": "City",
+   "County[2]": "Essex",
+   "Form of government[1]": "Mayor-council",
+   "Population\n (2010)[2]": "17,416",
+   "Year\n established[3]": "1764"
+ },
+ {
+   "Municipality": "Newton",
+   "Type[1]": "City",
+   "County[2]": "Middlesex",
+   "Form of government[1]": "Mayor-council[6]",
+   "Population\n (2010)[2]": "85,146",
+   "Year\n established[3]": "1688"
+ },
+ {
+   "Municipality": "Norfolk",
+   "Type[1]": "Town",
+   "County[2]": "Norfolk",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "11,227",
+   "Year\n established[3]": "1870"
+ },
+ {
+   "Municipality": "North Adams",
+   "Type[1]": "City",
+   "County[2]": "Berkshire",
+   "Form of government[1]": "Mayor-council",
+   "Population\n (2010)[2]": "13,708",
+   "Year\n established[3]": "1878"
+ },
+ {
+   "Municipality": "North Andover",
+   "Type[1]": "Town",
+   "County[2]": "Essex",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "28,352",
+   "Year\n established[3]": "1855"
+ },
+ {
+   "Municipality": "North Attleborough",
+   "Type[1]": "Town",
+   "County[2]": "Bristol",
+   "Form of government[1]": "Representative town meeting",
+   "Population\n (2010)[2]": "28,712",
+   "Year\n established[3]": "1887"
+ },
+ {
+   "Municipality": "North Brookfield",
+   "Type[1]": "Town",
+   "County[2]": "Worcester",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "4,680",
+   "Year\n established[3]": "1812"
+ },
+ {
+   "Municipality": "North Reading",
+   "Type[1]": "Town",
+   "County[2]": "Middlesex",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "14,892",
+   "Year\n established[3]": "1853"
+ },
+ {
+   "Municipality": "Northampton",
+   "Type[1]": "City",
+   "County[2]": "Hampshire",
+   "Form of government[1]": "Mayor-council",
+   "Population\n (2010)[2]": "28,549",
+   "Year\n established[3]": "1656"
+ },
+ {
+   "Municipality": "Northborough",
+   "Type[1]": "Town",
+   "County[2]": "Worcester",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "14,155",
+   "Year\n established[3]": "1775"
+ },
+ {
+   "Municipality": "Northbridge",
+   "Type[1]": "Town",
+   "County[2]": "Worcester",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "15,707",
+   "Year\n established[3]": "1775"
+ },
+ {
+   "Municipality": "Northfield",
+   "Type[1]": "Town",
+   "County[2]": "Franklin",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "3,032",
+   "Year\n established[3]": "1723"
+ },
+ {
+   "Municipality": "Norton",
+   "Type[1]": "Town",
+   "County[2]": "Bristol",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "19,031",
+   "Year\n established[3]": "1711"
+ },
+ {
+   "Municipality": "Norwell",
+   "Type[1]": "Town",
+   "County[2]": "Plymouth",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "10,506",
+   "Year\n established[3]": "1849"
+ },
+ {
+   "Municipality": "Norwood",
+   "Type[1]": "Town",
+   "County[2]": "Norfolk",
+   "Form of government[1]": "Representative town meeting",
+   "Population\n (2010)[2]": "28,602",
+   "Year\n established[3]": "1872"
+ },
+ {
+   "Municipality": "Oak Bluffs",
+   "Type[1]": "Town",
+   "County[2]": "Dukes",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "4,527",
+   "Year\n established[3]": "1880"
+ },
+ {
+   "Municipality": "Oakham",
+   "Type[1]": "Town",
+   "County[2]": "Worcester",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "1,902",
+   "Year\n established[3]": "1775"
+ },
+ {
+   "Municipality": "Orange",
+   "Type[1]": "Town",
+   "County[2]": "Franklin",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "7,839",
+   "Year\n established[3]": "1810"
+ },
+ {
+   "Municipality": "Orleans",
+   "Type[1]": "Town",
+   "County[2]": "Barnstable",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "5,890",
+   "Year\n established[3]": "1797"
+ },
+ {
+   "Municipality": "Otis",
+   "Type[1]": "Town",
+   "County[2]": "Berkshire",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "1,612",
+   "Year\n established[3]": "1773"
+ },
+ {
+   "Municipality": "Oxford",
+   "Type[1]": "Town",
+   "County[2]": "Worcester",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "13,709",
+   "Year\n established[3]": "1713"
+ },
+ {
+   "Municipality": "Palmer",
+   "Type[1]": "City[4]",
+   "County[2]": "Hampden",
+   "Form of government[1]": "Council-manager",
+   "Population\n (2010)[2]": "12,140",
+   "Year\n established[3]": "1775"
+ },
+ {
+   "Municipality": "Paxton",
+   "Type[1]": "Town",
+   "County[2]": "Worcester",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "4,806",
+   "Year\n established[3]": "1775"
+ },
+ {
+   "Municipality": "Peabody",
+   "Type[1]": "City",
+   "County[2]": "Essex",
+   "Form of government[1]": "Mayor-council",
+   "Population\n (2010)[2]": "51,251",
+   "Year\n established[3]": "1868"
+ },
+ {
+   "Municipality": "Pelham",
+   "Type[1]": "Town",
+   "County[2]": "Hampshire",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "1,321",
+   "Year\n established[3]": "1743"
+ },
+ {
+   "Municipality": "Pembroke",
+   "Type[1]": "Town",
+   "County[2]": "Plymouth",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "17,837",
+   "Year\n established[3]": "1712"
+ },
+ {
+   "Municipality": "Pepperell",
+   "Type[1]": "Town",
+   "County[2]": "Middlesex",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "11,497",
+   "Year\n established[3]": "1775"
+ },
+ {
+   "Municipality": "Peru",
+   "Type[1]": "Town",
+   "County[2]": "Berkshire",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "847",
+   "Year\n established[3]": "1771"
+ },
+ {
+   "Municipality": "Petersham",
+   "Type[1]": "Town",
+   "County[2]": "Worcester",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "1,234",
+   "Year\n established[3]": "1754"
+ },
+ {
+   "Municipality": "Phillipston",
+   "Type[1]": "Town",
+   "County[2]": "Worcester",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "1,682",
+   "Year\n established[3]": "1786"
+ },
+ {
+   "Municipality": "Pittsfield",
+   "Type[1]": "City",
+   "County[2]": "Berkshire",
+   "Form of government[1]": "Mayor-council",
+   "Population\n (2010)[2]": "44,737",
+   "Year\n established[3]": "1761"
+ },
+ {
+   "Municipality": "Plainfield",
+   "Type[1]": "Town",
+   "County[2]": "Hampshire",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "648",
+   "Year\n established[3]": "1807"
+ },
+ {
+   "Municipality": "Plainville",
+   "Type[1]": "Town",
+   "County[2]": "Norfolk",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "8,264",
+   "Year\n established[3]": "1905"
+ },
+ {
+   "Municipality": "Plymouth",
+   "Type[1]": "Town",
+   "County[2]": "Plymouth",
+   "Form of government[1]": "Representative town meeting",
+   "Population\n (2010)[2]": "56,468",
+   "Year\n established[3]": "1620"
+ },
+ {
+   "Municipality": "Plympton",
+   "Type[1]": "Town",
+   "County[2]": "Plymouth",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "2,820",
+   "Year\n established[3]": "1707"
+ },
+ {
+   "Municipality": "Princeton",
+   "Type[1]": "Town",
+   "County[2]": "Worcester",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "3,413",
+   "Year\n established[3]": "1771"
+ },
+ {
+   "Municipality": "Provincetown",
+   "Type[1]": "Town",
+   "County[2]": "Barnstable",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "2,942",
+   "Year\n established[3]": "1727"
+ },
+ {
+   "Municipality": "Quincy",
+   "Type[1]": "City",
+   "County[2]": "Norfolk",
+   "Form of government[1]": "Mayor-council",
+   "Population\n (2010)[2]": "92,271",
+   "Year\n established[3]": "1792"
+ },
+ {
+   "Municipality": "Randolph",
+   "Type[1]": "City[4]",
+   "County[2]": "Norfolk",
+   "Form of government[1]": "Council-manager",
+   "Population\n (2010)[2]": "32,112",
+   "Year\n established[3]": "1793"
+ },
+ {
+   "Municipality": "Raynham",
+   "Type[1]": "Town",
+   "County[2]": "Bristol",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "13,383",
+   "Year\n established[3]": "1731"
+ },
+ {
+   "Municipality": "Reading",
+   "Type[1]": "Town",
+   "County[2]": "Middlesex",
+   "Form of government[1]": "Representative town meeting",
+   "Population\n (2010)[2]": "24,747",
+   "Year\n established[3]": "1644"
+ },
+ {
+   "Municipality": "Rehoboth",
+   "Type[1]": "Town",
+   "County[2]": "Bristol",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "11,608",
+   "Year\n established[3]": "1645"
+ },
+ {
+   "Municipality": "Revere",
+   "Type[1]": "City",
+   "County[2]": "Suffolk",
+   "Form of government[1]": "Mayor-council",
+   "Population\n (2010)[2]": "51,755",
+   "Year\n established[3]": "1846"
+ },
+ {
+   "Municipality": "Richmond",
+   "Type[1]": "Town",
+   "County[2]": "Berkshire",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "1,475",
+   "Year\n established[3]": "1765"
+ },
+ {
+   "Municipality": "Rochester",
+   "Type[1]": "Town",
+   "County[2]": "Plymouth",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "5,232",
+   "Year\n established[3]": "1686"
+ },
+ {
+   "Municipality": "Rockland",
+   "Type[1]": "Town",
+   "County[2]": "Plymouth",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "17,489",
+   "Year\n established[3]": "1874"
+ },
+ {
+   "Municipality": "Rockport",
+   "Type[1]": "Town",
+   "County[2]": "Essex",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "6,952",
+   "Year\n established[3]": "1840"
+ },
+ {
+   "Municipality": "Rowe",
+   "Type[1]": "Town",
+   "County[2]": "Franklin",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "393",
+   "Year\n established[3]": "1785"
+ },
+ {
+   "Municipality": "Rowley",
+   "Type[1]": "Town",
+   "County[2]": "Essex",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "5,856",
+   "Year\n established[3]": "1639"
+ },
+ {
+   "Municipality": "Royalston",
+   "Type[1]": "Town",
+   "County[2]": "Worcester",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "1,258",
+   "Year\n established[3]": "1765"
+ },
+ {
+   "Municipality": "Russell",
+   "Type[1]": "Town",
+   "County[2]": "Hampden",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "1,775",
+   "Year\n established[3]": "1792"
+ },
+ {
+   "Municipality": "Rutland",
+   "Type[1]": "Town",
+   "County[2]": "Worcester",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "7,973",
+   "Year\n established[3]": "1713"
+ },
+ {
+   "Municipality": "Salem",
+   "Type[1]": "City",
+   "County[2]": "Essex",
+   "Form of government[1]": "Mayor-council",
+   "Population\n (2010)[2]": "41,340",
+   "Year\n established[3]": "1626"
+ },
+ {
+   "Municipality": "Salisbury",
+   "Type[1]": "Town",
+   "County[2]": "Essex",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "8,283",
+   "Year\n established[3]": "1639"
+ },
+ {
+   "Municipality": "Sandisfield",
+   "Type[1]": "Town",
+   "County[2]": "Berkshire",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "915",
+   "Year\n established[3]": "1762"
+ },
+ {
+   "Municipality": "Sandwich",
+   "Type[1]": "Town",
+   "County[2]": "Barnstable",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "20,675",
+   "Year\n established[3]": "1638"
+ },
+ {
+   "Municipality": "Saugus",
+   "Type[1]": "Town",
+   "County[2]": "Essex",
+   "Form of government[1]": "Representative town meeting",
+   "Population\n (2010)[2]": "26,628",
+   "Year\n established[3]": "1815"
+ },
+ {
+   "Municipality": "Savoy",
+   "Type[1]": "Town",
+   "County[2]": "Berkshire",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "692",
+   "Year\n established[3]": "1797"
+ },
+ {
+   "Municipality": "Scituate",
+   "Type[1]": "Town",
+   "County[2]": "Plymouth",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "18,133",
+   "Year\n established[3]": "1636"
+ },
+ {
+   "Municipality": "Seekonk",
+   "Type[1]": "Town",
+   "County[2]": "Bristol",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "13,722",
+   "Year\n established[3]": "1812"
+ },
+ {
+   "Municipality": "Sharon",
+   "Type[1]": "Town",
+   "County[2]": "Norfolk",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "17,612",
+   "Year\n established[3]": "1775"
+ },
+ {
+   "Municipality": "Sheffield",
+   "Type[1]": "Town",
+   "County[2]": "Berkshire",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "3,257",
+   "Year\n established[3]": "1733"
+ },
+ {
+   "Municipality": "Shelburne",
+   "Type[1]": "Town",
+   "County[2]": "Franklin",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "1,893",
+   "Year\n established[3]": "1775"
+ },
+ {
+   "Municipality": "Sherborn",
+   "Type[1]": "Town",
+   "County[2]": "Middlesex",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "4,119",
+   "Year\n established[3]": "1674"
+ },
+ {
+   "Municipality": "Shirley",
+   "Type[1]": "Town",
+   "County[2]": "Middlesex",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "7,211",
+   "Year\n established[3]": "1775"
+ },
+ {
+   "Municipality": "Shrewsbury",
+   "Type[1]": "Town",
+   "County[2]": "Worcester",
+   "Form of government[1]": "Representative town meeting",
+   "Population\n (2010)[2]": "35,608",
+   "Year\n established[3]": "1727"
+ },
+ {
+   "Municipality": "Shutesbury",
+   "Type[1]": "Town",
+   "County[2]": "Franklin",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "1,771",
+   "Year\n established[3]": "1761"
+ },
+ {
+   "Municipality": "Somerset",
+   "Type[1]": "Town",
+   "County[2]": "Bristol",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "18,165",
+   "Year\n established[3]": "1790"
+ },
+ {
+   "Municipality": "Somerville",
+   "Type[1]": "City",
+   "County[2]": "Middlesex",
+   "Form of government[1]": "Mayor-aldermen",
+   "Population\n (2010)[2]": "75,754",
+   "Year\n established[3]": "1842"
+ },
+ {
+   "Municipality": "South Hadley",
+   "Type[1]": "Town",
+   "County[2]": "Hampshire",
+   "Form of government[1]": "Representative town meeting",
+   "Population\n (2010)[2]": "17,514",
+   "Year\n established[3]": "1775"
+ },
+ {
+   "Municipality": "Southampton",
+   "Type[1]": "Town",
+   "County[2]": "Hampshire",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "5,792",
+   "Year\n established[3]": "1775"
+ },
+ {
+   "Municipality": "Southborough",
+   "Type[1]": "Town",
+   "County[2]": "Worcester",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "9,767",
+   "Year\n established[3]": "1727"
+ },
+ {
+   "Municipality": "Southbridge",
+   "Type[1]": "City[4]",
+   "County[2]": "Worcester",
+   "Form of government[1]": "Council-manager",
+   "Population\n (2010)[2]": "16,719",
+   "Year\n established[3]": "1816"
+ },
+ {
+   "Municipality": "Southwick",
+   "Type[1]": "Town",
+   "County[2]": "Hampden",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "9,502",
+   "Year\n established[3]": "1775"
+ },
+ {
+   "Municipality": "Spencer",
+   "Type[1]": "Town",
+   "County[2]": "Worcester",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "11,688",
+   "Year\n established[3]": "1775"
+ },
+ {
+   "Municipality": "Springfield",
+   "Type[1]": "City",
+   "County[2]": "Hampden",
+   "Form of government[1]": "Mayor-council",
+   "Population\n (2010)[2]": "153,060",
+   "Year\n established[3]": "1636"
+ },
+ {
+   "Municipality": "Sterling",
+   "Type[1]": "Town",
+   "County[2]": "Worcester",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "7,808",
+   "Year\n established[3]": "1781"
+ },
+ {
+   "Municipality": "Stockbridge",
+   "Type[1]": "Town",
+   "County[2]": "Berkshire",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "1,947",
+   "Year\n established[3]": "1739"
+ },
+ {
+   "Municipality": "Stoneham",
+   "Type[1]": "Town",
+   "County[2]": "Middlesex",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "21,437",
+   "Year\n established[3]": "1725"
+ },
+ {
+   "Municipality": "Stoughton",
+   "Type[1]": "Town",
+   "County[2]": "Norfolk",
+   "Form of government[1]": "Representative town meeting",
+   "Population\n (2010)[2]": "26,962",
+   "Year\n established[3]": "1726"
+ },
+ {
+   "Municipality": "Stow",
+   "Type[1]": "Town",
+   "County[2]": "Middlesex",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "6,590",
+   "Year\n established[3]": "1683"
+ },
+ {
+   "Municipality": "Sturbridge",
+   "Type[1]": "Town",
+   "County[2]": "Worcester",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "9,268",
+   "Year\n established[3]": "1738"
+ },
+ {
+   "Municipality": "Sudbury",
+   "Type[1]": "Town",
+   "County[2]": "Middlesex",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "17,659",
+   "Year\n established[3]": "1639"
+ },
+ {
+   "Municipality": "Sunderland",
+   "Type[1]": "Town",
+   "County[2]": "Franklin",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "3,684",
+   "Year\n established[3]": "1714"
+ },
+ {
+   "Municipality": "Sutton",
+   "Type[1]": "Town",
+   "County[2]": "Worcester",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "8,963",
+   "Year\n established[3]": "1714"
+ },
+ {
+   "Municipality": "Swampscott",
+   "Type[1]": "Town",
+   "County[2]": "Essex",
+   "Form of government[1]": "Representative town meeting",
+   "Population\n (2010)[2]": "13,787",
+   "Year\n established[3]": "1852"
+ },
+ {
+   "Municipality": "Swansea",
+   "Type[1]": "Town",
+   "County[2]": "Bristol",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "15,865",
+   "Year\n established[3]": "1667"
+ },
+ {
+   "Municipality": "Taunton",
+   "Type[1]": "City",
+   "County[2]": "Bristol",
+   "Form of government[1]": "Mayor-council",
+   "Population\n (2010)[2]": "55,874",
+   "Year\n established[3]": "1639"
+ },
+ {
+   "Municipality": "Templeton",
+   "Type[1]": "Town",
+   "County[2]": "Worcester",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "8,013",
+   "Year\n established[3]": "1762"
+ },
+ {
+   "Municipality": "Tewksbury",
+   "Type[1]": "Town",
+   "County[2]": "Middlesex",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "28,961",
+   "Year\n established[3]": "1734"
+ },
+ {
+   "Municipality": "Tisbury",
+   "Type[1]": "Town",
+   "County[2]": "Dukes",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "3,949",
+   "Year\n established[3]": "1671"
+ },
+ {
+   "Municipality": "Tolland",
+   "Type[1]": "Town",
+   "County[2]": "Hampden",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "485",
+   "Year\n established[3]": "1810"
+ },
+ {
+   "Municipality": "Topsfield",
+   "Type[1]": "Town",
+   "County[2]": "Essex",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "6,085",
+   "Year\n established[3]": "1650"
+ },
+ {
+   "Municipality": "Townsend",
+   "Type[1]": "Town",
+   "County[2]": "Middlesex",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "8,926",
+   "Year\n established[3]": "1732"
+ },
+ {
+   "Municipality": "Truro",
+   "Type[1]": "Town",
+   "County[2]": "Barnstable",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "2,003",
+   "Year\n established[3]": "1709"
+ },
+ {
+   "Municipality": "Tyngsborough",
+   "Type[1]": "Town",
+   "County[2]": "Middlesex",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "11,292",
+   "Year\n established[3]": "1809"
+ },
+ {
+   "Municipality": "Tyringham",
+   "Type[1]": "Town",
+   "County[2]": "Berkshire",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "327",
+   "Year\n established[3]": "1762"
+ },
+ {
+   "Municipality": "Upton",
+   "Type[1]": "Town",
+   "County[2]": "Worcester",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "7,542",
+   "Year\n established[3]": "1735"
+ },
+ {
+   "Municipality": "Uxbridge",
+   "Type[1]": "Town",
+   "County[2]": "Worcester",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "13,457",
+   "Year\n established[3]": "1727"
+ },
+ {
+   "Municipality": "Wakefield",
+   "Type[1]": "Town",
+   "County[2]": "Middlesex",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "24,932",
+   "Year\n established[3]": "1812"
+ },
+ {
+   "Municipality": "Wales",
+   "Type[1]": "Town",
+   "County[2]": "Hampden",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "1,838",
+   "Year\n established[3]": "1762"
+ },
+ {
+   "Municipality": "Walpole",
+   "Type[1]": "Town",
+   "County[2]": "Norfolk",
+   "Form of government[1]": "Representative town meeting",
+   "Population\n (2010)[2]": "24,070",
+   "Year\n established[3]": "1724"
+ },
+ {
+   "Municipality": "Waltham",
+   "Type[1]": "City",
+   "County[2]": "Middlesex",
+   "Form of government[1]": "Mayor-council",
+   "Population\n (2010)[2]": "60,632",
+   "Year\n established[3]": "1738"
+ },
+ {
+   "Municipality": "Ware",
+   "Type[1]": "Town",
+   "County[2]": "Hampshire",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "9,872",
+   "Year\n established[3]": "1775"
+ },
+ {
+   "Municipality": "Wareham",
+   "Type[1]": "Town",
+   "County[2]": "Plymouth",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "21,822",
+   "Year\n established[3]": "1739"
+ },
+ {
+   "Municipality": "Warren",
+   "Type[1]": "Town",
+   "County[2]": "Worcester",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "5,135",
+   "Year\n established[3]": "1742"
+ },
+ {
+   "Municipality": "Warwick",
+   "Type[1]": "Town",
+   "County[2]": "Franklin",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "780",
+   "Year\n established[3]": "1763"
+ },
+ {
+   "Municipality": "Washington",
+   "Type[1]": "Town",
+   "County[2]": "Berkshire",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "538",
+   "Year\n established[3]": "1777"
+ },
+ {
+   "Municipality": "Watertown",
+   "Type[1]": "City[4]",
+   "County[2]": "Middlesex",
+   "Form of government[1]": "Council-manager",
+   "Population\n (2010)[2]": "31,915",
+   "Year\n established[3]": "1630"
+ },
+ {
+   "Municipality": "Wayland",
+   "Type[1]": "Town",
+   "County[2]": "Middlesex",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "12,994",
+   "Year\n established[3]": "1780"
+ },
+ {
+   "Municipality": "Webster",
+   "Type[1]": "Town",
+   "County[2]": "Worcester",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "16,767",
+   "Year\n established[3]": "1832"
+ },
+ {
+   "Municipality": "Wellesley",
+   "Type[1]": "Town",
+   "County[2]": "Norfolk",
+   "Form of government[1]": "Representative town meeting",
+   "Population\n (2010)[2]": "27,982",
+   "Year\n established[3]": "1881"
+ },
+ {
+   "Municipality": "Wellfleet",
+   "Type[1]": "Town",
+   "County[2]": "Barnstable",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "2,750",
+   "Year\n established[3]": "1775"
+ },
+ {
+   "Municipality": "Wendell",
+   "Type[1]": "Town",
+   "County[2]": "Franklin",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "848",
+   "Year\n established[3]": "1781"
+ },
+ {
+   "Municipality": "Wenham",
+   "Type[1]": "Town",
+   "County[2]": "Essex",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "4,875",
+   "Year\n established[3]": "1643"
+ },
+ {
+   "Municipality": "West Boylston",
+   "Type[1]": "Town",
+   "County[2]": "Worcester",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "7,669",
+   "Year\n established[3]": "1808"
+ },
+ {
+   "Municipality": "West Bridgewater",
+   "Type[1]": "Town",
+   "County[2]": "Plymouth",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "6,916",
+   "Year\n established[3]": "1822"
+ },
+ {
+   "Municipality": "West Brookfield",
+   "Type[1]": "Town",
+   "County[2]": "Worcester",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "3,701",
+   "Year\n established[3]": "1848"
+ },
+ {
+   "Municipality": "West Newbury",
+   "Type[1]": "Town",
+   "County[2]": "Essex",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "4,235",
+   "Year\n established[3]": "1819"
+ },
+ {
+   "Municipality": "West Springfield",
+   "Type[1]": "City[4]",
+   "County[2]": "Hampden",
+   "Form of government[1]": "Mayor-council",
+   "Population\n (2010)[2]": "28,391",
+   "Year\n established[3]": "1774"
+ },
+ {
+   "Municipality": "West Stockbridge",
+   "Type[1]": "Town",
+   "County[2]": "Berkshire",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "1,306",
+   "Year\n established[3]": "1775"
+ },
+ {
+   "Municipality": "West Tisbury",
+   "Type[1]": "Town",
+   "County[2]": "Dukes",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "2,740",
+   "Year\n established[3]": "1892"
+ },
+ {
+   "Municipality": "Westborough",
+   "Type[1]": "Town",
+   "County[2]": "Worcester",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "18,272",
+   "Year\n established[3]": "1717"
+ },
+ {
+   "Municipality": "Westfield",
+   "Type[1]": "City",
+   "County[2]": "Hampden",
+   "Form of government[1]": "Mayor-council",
+   "Population\n (2010)[2]": "41,094",
+   "Year\n established[3]": "1669"
+ },
+ {
+   "Municipality": "Westford",
+   "Type[1]": "Town",
+   "County[2]": "Middlesex",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "21,951",
+   "Year\n established[3]": "1729"
+ },
+ {
+   "Municipality": "Westhampton",
+   "Type[1]": "Town",
+   "County[2]": "Hampshire",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "1,607",
+   "Year\n established[3]": "1778"
+ },
+ {
+   "Municipality": "Westminster",
+   "Type[1]": "Town",
+   "County[2]": "Worcester",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "7,277",
+   "Year\n established[3]": "1770"
+ },
+ {
+   "Municipality": "Weston",
+   "Type[1]": "Town",
+   "County[2]": "Middlesex",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "11,261",
+   "Year\n established[3]": "1713"
+ },
+ {
+   "Municipality": "Westport",
+   "Type[1]": "Town",
+   "County[2]": "Bristol",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "15,532",
+   "Year\n established[3]": "1787"
+ },
+ {
+   "Municipality": "Westwood",
+   "Type[1]": "Town",
+   "County[2]": "Norfolk",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "14,618",
+   "Year\n established[3]": "1897"
+ },
+ {
+   "Municipality": "Weymouth",
+   "Type[1]": "City[4]",
+   "County[2]": "Norfolk",
+   "Form of government[1]": "Mayor-council",
+   "Population\n (2010)[2]": "53,743",
+   "Year\n established[3]": "1635"
+ },
+ {
+   "Municipality": "Whately",
+   "Type[1]": "Town",
+   "County[2]": "Franklin",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "1,496",
+   "Year\n established[3]": "1771"
+ },
+ {
+   "Municipality": "Whitman",
+   "Type[1]": "Town",
+   "County[2]": "Plymouth",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "14,489",
+   "Year\n established[3]": "1875"
+ },
+ {
+   "Municipality": "Wilbraham",
+   "Type[1]": "Town",
+   "County[2]": "Hampden",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "14,219",
+   "Year\n established[3]": "1763"
+ },
+ {
+   "Municipality": "Williamsburg",
+   "Type[1]": "Town",
+   "County[2]": "Hampshire",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "2,482",
+   "Year\n established[3]": "1775"
+ },
+ {
+   "Municipality": "Williamstown",
+   "Type[1]": "Town",
+   "County[2]": "Berkshire",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "7,754",
+   "Year\n established[3]": "1765"
+ },
+ {
+   "Municipality": "Wilmington",
+   "Type[1]": "Town",
+   "County[2]": "Middlesex",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "22,325",
+   "Year\n established[3]": "1730"
+ },
+ {
+   "Municipality": "Winchendon",
+   "Type[1]": "Town",
+   "County[2]": "Worcester",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "10,300",
+   "Year\n established[3]": "1764"
+ },
+ {
+   "Municipality": "Winchester",
+   "Type[1]": "Town",
+   "County[2]": "Middlesex",
+   "Form of government[1]": "Representative town meeting",
+   "Population\n (2010)[2]": "21,374",
+   "Year\n established[3]": "1850"
+ },
+ {
+   "Municipality": "Windsor",
+   "Type[1]": "Town",
+   "County[2]": "Berkshire",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "899",
+   "Year\n established[3]": "1771"
+ },
+ {
+   "Municipality": "Winthrop",
+   "Type[1]": "City[4]",
+   "County[2]": "Suffolk",
+   "Form of government[1]": "Council-manager",
+   "Population\n (2010)[2]": "17,497",
+   "Year\n established[3]": "1852"
+ },
+ {
+   "Municipality": "Woburn",
+   "Type[1]": "City",
+   "County[2]": "Middlesex",
+   "Form of government[1]": "Mayor-aldermen",
+   "Population\n (2010)[2]": "38,120",
+   "Year\n established[3]": "1642"
+ },
+ {
+   "Municipality": "Worcester",
+   "Type[1]": "City",
+   "County[2]": "Worcester",
+   "Form of government[1]": "Mayor-manager-council",
+   "Population\n (2010)[2]": "181,045",
+   "Year\n established[3]": "1684"
+ },
+ {
+   "Municipality": "Worthington",
+   "Type[1]": "Town",
+   "County[2]": "Hampshire",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "1,156",
+   "Year\n established[3]": "1768"
+ },
+ {
+   "Municipality": "Wrentham",
+   "Type[1]": "Town",
+   "County[2]": "Norfolk",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "10,955",
+   "Year\n established[3]": "1673"
+ },
+ {
+   "Municipality": "Yarmouth",
+   "Type[1]": "Town",
+   "County[2]": "Barnstable",
+   "Form of government[1]": "Open town meeting",
+   "Population\n (2010)[2]": "23,793",
+   "Year\n established[3]": "1639"
+ }
+]
