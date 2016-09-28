@@ -1,6 +1,20 @@
 # Electionator
 An effort to scrape and display information about elections in a user friendly way.
 
+This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
+version 0.15.1.
+
+Note, the code in the repo doesn't inlcude auth keys or tokens. In order to test and run the app you'll need to get an account from https://smartystreets.com/
+
+## Build & development
+
+Run `grunt` for building and `grunt serve` for preview.
+
+## Testing
+
+~~Running `grunt test` will run the unit tests with karma.~~
+
+
 ## MVP
 1. Address finder
  	> The mvp might be something like a simple address webform
