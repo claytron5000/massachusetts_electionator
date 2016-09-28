@@ -18,6 +18,7 @@ Run `grunt` for building and `grunt serve` for preview.
 ## MVP
 1. Address finder
  	> The mvp might be something like a simple address webform
+  ~~> Validate the address through 3rd party API, get some data returned
 2. Important Dates
  	> Upcoming election date
  	> Early voting dates
